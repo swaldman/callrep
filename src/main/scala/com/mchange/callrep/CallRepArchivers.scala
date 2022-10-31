@@ -1,3 +1,10 @@
+// XXX: There's a lot of annoting completity here about managing 'dolt gc', without which
+//      we produce too much garbage data, gigabytes of unnecessary storage. All the crap about starting
+//      and killing the DBMS is so we can run 'dolt gc' safely. Once dolt integrates garbage collection
+//      one way or another into its sql-server mode, all of that should be stripped away. Grrr. Usually
+//      it's best to just have the DBMS running separately, and the archiver a client to it, rather than
+//      managing the DBMS in the archiver, but the need for safe 'dolt gc' has us messing around.
+
 package com.mchange.callrep
 
 import java.io.{BufferedReader,File,PrintWriter,StringWriter};
@@ -8,6 +15,7 @@ import java.util.{Calendar,Date};
 import scala.collection._;
 import scala.util.matching.Regex;
 import com.mchange.sc.v2.io._
+import com.mchange.sc.v2.lang._
 import com.mchange.sc.v1.util.ClosableUtils._;
 import com.mchange.sc.v1.sql.ResourceUtils._;
 import com.mchange.sc.v1.log.MLevel._
@@ -15,29 +23,100 @@ import com.mchange.sc.v1.texttable
 import com.mchange.sc.v1.superflex._;
 import SuperFlexDbArchiver._
 
-object CallReportArchivers
+import scala.sys.process.Process
+
+object CallRepArchivers
 {
+  private implicit val logger = mlogger( this )
+
   //override val schemaName = "callrep";
 
   //protected override val schemaDesc = "Bank call report data published by FFIEC";
 
-  private val mbSchemaName            = None
-  private val parentDirStr          = "/Users/swaldman/Downloads/FFIEC CDR Call"
+  private val mbSchemaName           = None
+  private val parentDirStr          = "/Users/swaldman/development/dolt-git/callrep-dolt/datafiles/2022-10-29/FFIEC CDR Call"
   private val allSchedulesDirStr    = parentDirStr + "/FFIEC CDR Call Bulk All Schedules"
   private val subsetSchedulesDirStr = parentDirStr + "/FFIEC CDR Call Bulk Subset of Schedules"
-  private val reportsDir            = "/Users/swaldman/tmp/callrep_reports"
+  private val reportsDir            = "/Users/swaldman/development/dolt-git/callrep-dolt/output/reports"
+
+  private val dbmsDir = "/Users/swaldman/development/dolt-git/callrep-dolt/output/dbms"
+  private val dbDir   = dbmsDir + "/callrep"
 
   // recalling annoyingly that java.util.Calendar months are zero-indexed....
   private def toDate( year : Int, month : Int, day : Int ) = { val c = Calendar.getInstance(); c.clear(); c.set(year, month-1, day); c.getTime(); }
 
-  private val downloadDate = toDate(2022,10,27)
+  private val downloadDate = toDate(2022,10,29)
 
-  private val baseYear = 2001;
-  private val endYear  = 2022;
+  private val startYear = 2001;
+  private val endYear   = 2022;
 
+  private val DoltStartDelay = 1000;
 
-  protected abstract class CallRepArchiver extends SuperFlexDbArchiver with TabDelimSplitter
+  private val AllSchedulesDictionaryReportFile = new File( reportsDir, "AllSchedulesDictionary.txt" )
+  private val BalShtIncStmtPastDueReportFile   = new File( reportsDir, "BalanceSheetIncomeStatementPastDueDictionary.txt" )
+
+  object Dictionary {
+    object Element {
+      implicit val ElementOrdering = Ordering.by( (elem : Dictionary.Element ) => Element.unapply(elem).get )
+    }
+    final case class Element( field : String, label : String, tableName : String, typedecl : String )
+  }
+  class Dictionary {
+    private val pages = mutable.SortedSet.empty[Dictionary.Element]
+
+    def add( field : String, label : String, tableName : String, typedecl : String ) : Unit = this.synchronized {
+      pages += Dictionary.Element( field, label, tableName, typedecl )
+    }
+
+    def add( element : Dictionary.Element ) : Unit = this.synchronized {
+      pages += element
+    }
+
+    def addAll( elements : Iterable[Dictionary.Element] ) : Unit = this.synchronized {
+      elements.foreach( this.add(_) )
+    }
+
+    def contents = this.synchronized {
+      immutable.SortedSet.empty[Dictionary.Element] ++ pages
+    }
+  }
+
+  case object DummyProcess extends Process {
+    def destroy() : Unit = ()
+    def exitValue : Int  = 0
+  }
+
+  // we want to run "dolt gc", and do so when the server is not running, after archiving each table
+  // so we startup and stop the dbms
+  def doltRestartServer() : Process = {
+    val cmd = "dolt"::"sql-server"::Nil
+    val wd  = new File( dbmsDir ) // sql-server should be run a level above database dirs
+    val out = Process(cmd, wd).run()
+    INFO.log("Restarting dolt sql-server.")
+    Thread.sleep( DoltStartDelay ) // I'm not sure this is even necessary, but to be safe
+    out
+  }
+
+  def doltGc() : Int = {
+    val cmd = "dolt"::"gc"::Nil
+    val wd  = new File( dbDir ) // gc should be run withing a database dir
+    INFO.log("Running dolt gc.")
+    val out = Process(cmd, wd).run().exitValue // wait for it to complete
+    INFO.log("dolt gc completed.")
+    out
+  }
+
+  val SchedulesDictionary = new Dictionary
+  val BalShtIncStmtPastDueDictionary = new Dictionary
+
+  protected abstract class CallRepArchiver( dictionary : Dictionary ) extends SuperFlexDbArchiver with TabDelimSplitter
   {
+    private def dictionaryElements() : List[Dictionary.Element] = {
+      val tableName = _unifiedTableInfo.get.tname.get
+      val colInfos = _unifiedTableInfo.get.cols.get.toList
+      colInfos.map( ci => Dictionary.Element(transformColName(ci.name),ci.label.getOrElse(""),tableName,ci.sqlTypeDecl.get) )
+    }
+
     private def columnTable() : String = {
       val sw = new StringWriter()
 
@@ -83,20 +162,49 @@ object CallReportArchivers
       val dir = new File( reportsDir )
       dir.mkdirs()
       val f = new File( dir,_unifiedTableInfo.get.tableFullName.get + "-report.txt" )
-      INFO.log( s"Saving report to '${f}'." )
+      // println( s"Saving report to '${f}'." )
       f.replaceContents( report )
+    }
+
+    private def restartServer() : Process = {
+      dbmsDialect match {
+        case Dolt => doltRestartServer()
+        case _    => DummyProcess
+      }
+    }
+
+    private def cleanupServer( process : Process ) : Int = {
+      if (process != DummyProcess ) {
+        INFO.log("Waiting for DBMS server to terminate cleanly.")
+        process.destroy()
+        val out = process.exitValue() // wait for it to finish cleaning up before moving on!
+        INFO.log("DBMS server terminated.")
+        out
+      }
+      else 0
     }
 
     override def archiveFiles( csrc : ConnectionSource ) =
     {
-      super.archiveFiles( csrc );
+      borrow( restartServer )( cleanupServer _ ) { _ =>
+        super.archiveFiles( csrc );
+      }
       saveReport()
+      dictionary.addAll( this.dictionaryElements() )
+
+      if (dbmsDialect == Dolt) doltGc()
     }
 
     override def archiveFilesNoDups( csrc : ConnectionSource, imposePkConstraint : Boolean ) =
     {
-      super.archiveFilesNoDups( csrc, imposePkConstraint );
+      borrow( restartServer )( _.destroy() ) { _ =>
+        super.archiveFilesNoDups( csrc, imposePkConstraint );
+      }
+
       saveReport()
+      dictionary.addAll( this.dictionaryElements() )
+
+      if (dbmsDialect == Dolt) doltGc()
     }
 
     // override val debugColumnInspection = true
@@ -143,21 +251,21 @@ object CallReportArchivers
 
   private class BsispdArchiver(filenum : Int) extends {
 
-    val priorTableInfo = TableInfo( mbSchemaName, Some("bsispd%d".format(filenum)), None, Some("IDRSSD"::"Reporting Period End Date"::Nil) );
+    val priorTableInfo = TableInfo( mbSchemaName, Some("BalanceSheetIncomeStatementPastDue%d".format(filenum)), None, Some("IDRSSD"::"Reporting Period End Date"::Nil) );
 
-  } with CallRepArchiver {
+  } with CallRepArchiver(BalShtIncStmtPastDueDictionary) {
 
     val files = {
       val sfxDirTemplate = subsetSchedulesDirStr + "/FFIEC CDR Call Bulk Subset of Schedules %d"
       var sfxTemplate = sfxDirTemplate + "/FFIEC CDR Call Subset of Schedules %d(%d of %d).txt";
       //def numFilesForYear( yrNum : Int ) = if (yrNum > 2010) 3; else 2; //hard coding number of files per year!
-      //val baseYear = if (filenum <= 2) 2001; else 2011;
+      //val startYear = if (filenum <= 2) 2001; else 2011;
 
       def numFilesForYear( yrNum : Int ) = {
         val dir = new File( sfxDirTemplate.format(yrNum) )
 
-        println(dir)
-        println(dir.exists)
+        // println(dir)
+        // println(dir.exists)
 
 
         if (dir.exists) {
@@ -168,8 +276,8 @@ object CallReportArchivers
         }
       }
 
-      var fileNames = (baseYear to endYear).map( n => sfxTemplate.format( n, n, filenum, numFilesForYear(n) ) );
-      fileNames.filter( new File( _ ).exists() ).foreach( println _ );
+      var fileNames = (startYear to endYear).map( n => sfxTemplate.format( n, n, filenum, numFilesForYear(n) ) );
+      // fileNames.filter( new File( _ ).exists() ).foreach( println _ );
       fileNames.filter( new File( _ ).exists() ).map( FileDataFileSource( _ ) ).toSeq;
     };
 
@@ -197,9 +305,9 @@ object CallReportArchivers
     
     val parentDir = new File( allSchedulesDirStr );
 
-    println(parentDir)
-    println(parentDir.exists)
-    println(parentDir.list.mkString("\n"))
+    // println(parentDir)
+    // println(parentDir.exists)
+    // println(parentDir.list.mkString("\n"))
 
     val allDirs = immutable.Set( parentDir.list().filter( dirRegex.findPrefixMatchOf( _ ) != None ).map( new File( parentDir, _ ) ) : _* ) ;
     
@@ -231,11 +339,11 @@ object CallReportArchivers
 	val out = mutable.Map.empty[NamedDataFileSource,String];
 	for ( dir <- allDirs)
 	  {
-	    println( dir );
+	    // println( dir );
 	    val dirTups = for (fname <- dir.list(); maybeMatch = regex.findPrefixMatchOf( fname ); if (maybeMatch != None); m = maybeMatch.get) 
 			    yield Tuple2( FileDataFileSource( new File( new File(parentDir, dir.getName()), fname ) ), m.group(3) );
 
-	    dirTups.foreach( println _ );
+	    // dirTups.foreach( println _ );
 
 	    val goodTup =
 	      dirTups.length match
@@ -278,7 +386,7 @@ object CallReportArchivers
   private class BySinglePeriodCallReportArchiver(tableName : String, fileDateStrMap : Map[NamedDataFileSource,String]) extends {
     val dateHeader = "Reporting Period End Date";
     val priorTableInfo = TableInfo( mbSchemaName, Some(tableName), None, Some("IDRSSD"::dateHeader::Nil) );
-  } with CallRepArchiver {
+  } with CallRepArchiver(SchedulesDictionary) {
     
     override def readMetaData( br : BufferedReader ) : MetaData = 
       { 
@@ -354,11 +462,30 @@ object CallReportArchivers
     }
   }
 
-  def archiveTables( csrc : ConnectionSource ) = {
-    archiveBsispd( csrc )
-    archiveSinglePeriodCallReports( csrc )  
+  private def dictionaryReport( dictionary : Dictionary ) : String = {
+    val sw = new StringWriter()
+
+    val elements = dictionary.contents
+
+    val tableCols = ("Name"::"Label"::"Table"::"Type"::Nil).map(texttable.Column.apply)
+    val tableRows = elements.toList.map( texttable.Row(_) )
+
+    texttable.appendProductTable( tableCols )( sw, tableRows )
+
+    sw.toString
   }
 
+  def archiveTables( csrc : ConnectionSource ) = {
+    archiveBsispd( csrc )
+    BalShtIncStmtPastDueReportFile.replaceContents( dictionaryReport( BalShtIncStmtPastDueDictionary ) )
+
+    archiveSinglePeriodCallReports( csrc )
+    AllSchedulesDictionaryReportFile.replaceContents( dictionaryReport( SchedulesDictionary ) )
+  }
+
+
+  // this code expects the "callrep" db to already exist.
+  // so the server needs to have been started using dbmsDir as its data directory, and the db callrep (re)created there
   def main( argv : Array[String] ) : Unit = {
     import java.sql._
     import com.mchange.callrep._

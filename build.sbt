@@ -22,7 +22,7 @@ lazy val root = project
     libraryDependencies += "com.mysql"               % "mysql-connector-j"     % "8.0.31",
     libraryDependencies += "org.postgresql"          % "postgresql"            % "42.5.0",
     scalacOptions       += "-deprecation",
-    javaOptions         += "-Xmx5G",
+    javaOptions         += "-Xmx25G",
     fork                := true,
     pomExtra := pomExtraForProjectName_LGPLv21( name.value )
   )
