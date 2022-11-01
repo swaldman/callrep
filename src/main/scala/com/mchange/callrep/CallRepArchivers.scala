@@ -34,12 +34,12 @@ object CallRepArchivers
   //protected override val schemaDesc = "Bank call report data published by FFIEC";
 
   private val mbSchemaName           = None
-  private val parentDirStr          = "/Users/swaldman/development/dolt-git/callrep-dolt/datafiles/2022-10-29/FFIEC CDR Call"
+  private val parentDirStr          = "datafiles/2022-10-29/FFIEC CDR Call"
   private val allSchedulesDirStr    = parentDirStr + "/FFIEC CDR Call Bulk All Schedules"
   private val subsetSchedulesDirStr = parentDirStr + "/FFIEC CDR Call Bulk Subset of Schedules"
-  private val reportsDir            = "/Users/swaldman/development/dolt-git/callrep-dolt/output/reports"
+  private val reportsDir            = "output/reports"
 
-  private val dbmsDir = "/Users/swaldman/development/dolt-git/callrep-dolt/output/dbms"
+  private val dbmsDir = "output/dbms"
   private val dbDir   = dbmsDir + "/callrep"
 
   // recalling annoyingly that java.util.Calendar months are zero-indexed....

@@ -1,0 +1,8859 @@
+"IDRSSD"	RCON6979	TEXT6980	
+	NO COMMENT-BK MANAGEMENT STATEMENT	BANK MANAGEMENT STATEMENT	
+37	false		
+242	false		
+279	false		
+354	false		
+439	false		
+457	false		
+505	false		
+1146	false		
+1155	false		
+1351	false		
+1454	false		
+1557	false		
+1632	false		
+1669	false		
+1829	false		
+1856	false		
+1959	false		
+2040			
+2161	false		
+2376			
+2451			
+2554	false		
+2732	false		
+2750	false		
+2938			
+2956	false		
+3252	false		
+3458	false		
+3506	false		
+3579			
+3720	false		
+3953	false		
+4138	false		
+4147	false		
+4156	false		
+4231			
+4437	false		
+4745	false		
+4839	false		
+5005			
+5050	false		
+5069			
+5135	false		
+5210	false		
+5247	false		
+5274	false		
+5331	false		
+5452	false		
+5461	false		
+5751	false		
+5939			
+6039	false		
+6057	false		
+6141			
+6329			
+6842	false		
+6972			
+7009	false		
+7045	false		
+7157			
+7166			
+7456	false		
+7634	false		
+8033	false		
+8154			
+8417	false		
+8462	false		
+8547	false		
+8631	false		
+8855	false		
+9115			
+9160	false		
+9339			
+9357	false		
+9553	false		
+9807	false		
+9955	false		
+10157	false		
+10250			
+10577	false		
+10849	false		
+10858	false		
+11145	false		
+11350	false		
+11640	false		
+11837	false		
+12030			
+12058	false		
+12142	false		
+12245			
+12311	false		
+12357	false		
+12405	false		
+12647	false		
+12656	false		
+12937	false		
+12946	false		
+12955			
+13037	false		
+13103	false		
+13251	false		
+13309	false		
+13457	false		
+14052	false		
+14155			
+14258	false		
+14409	false		
+14454	false		
+14650	false		
+14753	false		
+14865	false		
+14931	false		
+14940	false		
+15536	false		
+15732	false		
+16337	false		
+16355	false		
+16458			
+16551	false		
+16748	false		
+16766	false		
+16944	false		
+16953	false		
+17110	false		
+17147	false		
+17259	false		
+17464			
+17549	false		
+17642	false		
+17839	false		
+17950	false		
+18050	false		
+18126	false		
+18135	false		
+18368			
+18377	false		
+18827	false		
+18836	false		
+18854	false		
+18863	false		
+18957	false		
+19356	false		
+19730	false		
+19936	false		
+19972	false		
+20053	false		
+20147			
+20259			
+20370	false		
+20512			
+20633			
+20754	false		
+20839	false		
+20857	false		
+20866	false		
+21256	false		
+21359	false		
+21630			
+21658	false		
+22048	false		
+22235	false		
+22356			
+22459	false		
+22543			
+22552	false		
+22730	false		
+22860	false		
+22936	false		
+22954	false		
+23036	false		
+23045	false		
+23241			
+23344			
+23456	false		
+23504	false		
+23540	false		
+23643	false		
+23755	false		
+23812	false		
+24006	false		
+24266			
+24453	false		
+24659	false		
+24668			
+24855	false		
+24949			
+25357	false		
+25450			
+25647	true		
+25852	false		
+26149	false		
+26233	false		
+26242	false		
+26457	false		
+26756	false		
+26765	false		
+26859	false		
+26916	false		
+27548	false		
+27614	false		
+27838	false		
+27847	false		
+28013			
+28152			
+28255			
+28349	false		
+28406			
+28572	false		
+28732	false		
+29104	false		
+29159	false		
+29252			
+29636	false		
+29850	false		
+29944	false		
+29953			
+30025	false		
+30052	false		
+30146			
+30155	false		
+30258	false		
+30418			
+30436	false		
+30502	false		
+30650	false		
+30810			
+30856	false		
+31134	false		
+31152			
+31255	false		
+31303			
+31657	false		
+31826	false		
+31835	false		
+32159			
+32234	false		
+32766	false		
+33147	false		
+33259			
+33268	false		
+33549			
+33727	false		
+33754	false		
+33772	false		
+33839	false		
+33857			
+34032	false		
+34153	false		
+34359	false		
+34425	false		
+34434	false		
+34452	false		
+34537	false		
+34555	false		
+34742	false		
+34836	false		
+34863	false		
+35057	false		
+35244			
+35301	false		
+35570	false		
+35646			
+35842	false		
+35851			
+35936	false		
+36054	false		
+36344	false		
+36456	false		
+36830	false		
+36858	false		
+36933	false		
+37051	false		
+37341	false		
+37350	false		
+37378			
+37435	false		
+37640	false		
+37659	false		
+37743	false		
+37949	false		
+38441	false		
+38478			
+38526	false		
+38535	false		
+38740	false		
+39327	false		
+39420	true		
+39475	false		
+39756	false		
+39934	false		
+40033	false		
+40051	false		
+40305	false		
+40350	false		
+40707			
+40855	false		
+41245	false		
+41553	false		
+41629	false		
+41647	false		
+41759	false		
+41825	false		
+41937	false		
+41955	false		
+42037	false		
+42055	false		
+42354	false		
+42420	false		
+42448			
+42457	false		
+42541	false		
+43052	false		
+43155	false		
+43173			
+43324	false		
+43351	false		
+43454	false		
+43511			
+43641			
+43669			
+43744	false		
+43856	false		
+43959	false		
+44040			
+44134	false		
+44433			
+44451	false		
+44602	false		
+44741	false		
+44750	false		
+44929	false		
+45038	false		
+45047	false		
+45056	false		
+45270	false		
+45430	false		
+45458	false		
+45551	false		
+45560	false		
+45609	false		
+45627	false		
+45775	false		
+46053	false		
+46905	false		
+46941	false		
+47153	false		
+47247	false		
+47256	false		
+47377	false		
+47425	false		
+47452	false		
+47500	false		
+47658	false		
+48057	false		
+48150	false		
+48208			
+48374	false		
+48440			
+48552	false		
+48673	false		
+48730	false		
+49054	false		
+49148	true		
+49241	false		
+49344	false		
+49362	false		
+49540	false		
+49643			
+49652	false		
+49821			
+49858	false		
+49951	false		
+50144	false		
+50461			
+50546	false		
+50854	false		
+50957	false		
+51253			
+51347	false		
+51356	false		
+51459	false		
+51730	false		
+51842	false		
+51972	false		
+52410			
+52456	false		
+52719	false		
+52755	false		
+52764	false		
+52951	false		
+53015	false		
+53033	false		
+53051	false		
+53239	false		
+53453	false		
+53752	false		
+54049	true		
+54058	false		
+54124	false		
+54357	false		
+54375			
+54441	false		
+54656	false		
+55019	false		
+55176	false		
+55251	false		
+55336	false		
+55635			
+55653	false		
+55859	false		
+55916			
+56230	false		
+56258			
+56351	false		
+56427	false		
+56548			
+56557	false		
+56717	false		
+56726	false		
+57040			
+57134	false		
+57228	false		
+57255	false		
+57451	false		
+57572	false		
+57956	false		
+58074	false		
+58207			
+58225	false		
+58243	false		
+58355	false		
+58551	false		
+58636	false		
+58757	false		
+58971	false		
+59259	false		
+59316	false		
+59352	false		
+59679	false		
+59754	false		
+60143	false		
+60219	false		
+60330			
+60433	false		
+60545	false		
+60554	false		
+60648			
+61001	true		
+61047	false		
+61122			
+61355			
+61476	false		
+61533	false		
+61757	false		
+61832	false		
+61953	false		
+62044	false		
+62101			
+62147	false		
+62651	false		
+62709	false		
+63050	false		
+63069	false		
+63078			
+63201	false		
+63210	false		
+63359	false		
+63573	false		
+63733	false		
+63742			
+63751	false		
+63957	false		
+64066	false		
+64150	false		
+64253	false		
+64543	false		
+64552	false		
+64619	true		
+64646			
+64730	false		
+64758	false		
+65205	false		
+65241	false		
+65513	false		
+65559	false		
+65746			
+65858			
+66015	false		
+66154	false		
+66172			
+66275			
+66350	false		
+66613	false		
+66752	false		
+66837	false		
+66846	false		
+66855	true		
+66903			
+67142	false		
+67151	false		
+67209			
+67254	false		
+67311	false		
+67414	false		
+67777			
+67852	false		
+68345	false		
+68372	false		
+68448	false		
+68569	false		
+68756	false		
+68831	false		
+68840	false		
+68859	false		
+68943	false		
+69333	false		
+69351	false		
+69650			
+69678			
+69847	false		
+70049			
+70058	false		
+70076	false		
+70151	false		
+70218	false		
+70254	false		
+70414	false		
+70638	false		
+70955	false		
+71318			
+71457	false		
+71671	false		
+71859	false		
+72258			
+72276	false		
+72351	false		
+72418	false		
+72454	false		
+72614	false		
+72678	false		
+73031	false		
+73116	false		
+73152			
+73554	false		
+73956	false		
+74056	false		
+74140	false		
+74159	false		
+74337	false		
+74403	false		
+74449	false		
+74458			
+75053			
+75259	false		
+75446	false		
+75455	false		
+75558	false		
+75576	false		
+75633	false		
+75651	false		
+75857	false		
+76050	false		
+76117			
+76135	false		
+76153	false		
+76201	false		
+76443	false		
+76742	false		
+76854	false		
+77150	false		
+77253	false		
+77347	false		
+77374	false		
+77422	false		
+77758	false		
+77851			
+78036	false		
+78054	false		
+78157	false		
+78241	false		
+78559	false		
+78643	false		
+78858	false		
+78951	false		
+79042			
+79127	false		
+79145	false		
+79257	false		
+79855	false		
+80020	false		
+80150	false		
+80431	false		
+80552	false		
+80936	false		
+81054			
+81223	false		
+81429	false		
+82024	false		
+82033	false		
+82257	false		
+82350	false		
+82659	false		
+82873	false		
+83151	false		
+83236	false		
+83311			
+83357	false		
+83450	false		
+83638	false		
+83834	false		
+83852	false		
+83955	false		
+84046			
+84055	false		
+84251	false		
+84345	false		
+84541			
+84804	false		
+84970	false		
+85043			
+85052	false		
+85258	false		
+85454	false		
+85856	false		
+85931	false		
+86349	false		
+86358	false		
+86527	false		
+86554	false		
+87047	false		
+87159	false		
+87234	false		
+87476	false		
+87533	false		
+87944	false		
+88240			
+88259	false		
+88352	false		
+88455	false		
+88530	true		
+88802	false		
+88950	false		
+89032	false		
+89135	false		
+89162	false		
+89452	false		
+89751	false		
+89854	false		
+89957			
+90047	false		
+90159	false		
+90234			
+90252	false		
+90328			
+90337	false		
+90403	false		
+90467	false		
+90627	false		
+90645	false		
+90739	false		
+91129			
+91147	false		
+91156	false		
+91259	false		
+91521	false		
+91615	false		
+91651	false		
+91754			
+91866	false		
+91950	false		
+91969			
+92050	false		
+92144	false		
+92162			
+92630			
+92658	false		
+92706	false		
+92854	false		
+92902	false		
+93039	false		
+93244	false		
+93329	false		
+93413			
+93543	false		
+93619	false		
+93628			
+93721	false		
+93758	false		
+94139	false		
+94447	false		
+94456	false		
+94522	false		
+94661			
+94755	false		
+94858	false		
+95051	false		
+95659	false		
+95725			
+95855	false		
+96254	false		
+96357	false		
+96553	false		
+97037			
+97055	false		
+97260	false		
+97279	false		
+97457	false		
+97804	false		
+97943			
+98351	false		
+98360	false		
+98454	false		
+98463			
+98548	false		
+98557	false		
+98641	false		
+98717	false		
+99004			
+99059	false		
+99143	false		
+99255	false		
+99442	false		
+99536			
+99853			
+99974			
+100160	false		
+100236	false		
+100357	false		
+100553	false		
+100562	false		
+100843			
+101019	false		
+101037			
+101233			
+101327			
+101345	false		
+101439	false		
+101671	false		
+101738	false		
+101952	false		
+102155	false		
+102230	false		
+102333			
+102342	false		
+102539	false		
+102557	false		
+103134	false		
+103255	false		
+103536			
+103554	false		
+103563	false		
+103602	false		
+103862			
+104038	false		
+104056	false		
+104234			
+104430	false		
+104542	false		
+104663	false		
+105026			
+105044	false		
+105053	false		
+105071	false		
+105222	false		
+105530	false		
+105549	false		
+105633	false		
+105950	false		
+106359			
+106377			
+106452			
+106519	false		
+106546			
+106555			
+106658	false		
+107057	true		
+107141	false		
+107150			
+107226	false		
+107244	false		
+107431	false		
+107459	false		
+107758	false		
+108157	false		
+108250	false		
+108269	false		
+108522	false		
+108652	false		
+108746	false		
+108951	false		
+109136	false		
+109154	false		
+109453	false		
+109574	false		
+109659			
+109855	false		
+110057	false		
+110066	false		
+110356	false		
+110404	false		
+110413			
+110655	false		
+110758	false		
+110936			
+110945	false		
+111157	false		
+111205	false		
+111559	false		
+111661			
+111942	false		
+111951	false		
+111979	false		
+112163	false		
+112332	false		
+112444			
+112510			
+112556	false		
+112837	false		
+112855			
+112976	false		
+113003	false		
+113030	false		
+113151	false		
+113441	false		
+113601	true		
+113740	false		
+113759	false		
+113937	false		
+114149	false		
+114158	false		
+114251	false		
+114260	false		
+114457	false		
+114644	false		
+114756	false		
+114774	false		
+114840			
+114859	false		
+115100	false		
+115146	false		
+115155	false		
+115221			
+115342			
+115575	true		
+115641			
+116077	false		
+116358	false		
+116554	false		
+116639	false		
+116732	false		
+116741	false		
+117038	false		
+117216	false		
+117458	false		
+117672	false		
+117841			
+118156	false		
+118174	false		
+118352	false		
+118660	false		
+118736	false		
+119153	false		
+119274	false		
+119331	false		
+119528	false		
+119779	false		
+120542	false		
+120609	false		
+120636	false		
+120654	false		
+120953	false		
+121576	false		
+121642	false		
+121651	false		
+121709	false		
+121857	false		
+121914	false		
+122153	false		
+122546	false		
+122630	false		
+122658	false		
+122751	false		
+122854			
+123178	false		
+123440	false		
+123646	false		
+124344	false		
+124353	false		
+124513			
+124773	false		
+124830	false		
+125154	true		
+125453	false		
+125538	false		
+125855	false		
+125958	false		
+126012	false		
+126049	false		
+126254	false		
+126553	false		
+126740	false		
+126834	false		
+126955	false		
+127055	false		
+127224	false		
+127260	false		
+127701	false		
+128164			
+128258	false		
+128511	false		
+128904			
+128959			
+129349	false		
+129358	false		
+129394			
+129479			
+129732	false		
+129853			
+129910			
+130345	false		
+130541	false		
+130635	false		
+130813			
+130943	false		
+131034	false		
+131155	false		
+131351	false		
+131360	true		
+131418	false		
+131436	false		
+131520	false		
+131650	false		
+131717	false		
+131753	false		
+131940			
+132107	false		
+132152	false		
+132219	false		
+132376	false		
+132415	true		
+132442	false		
+132451	false		
+132554	false		
+132741			
+132778			
+132853	false		
+132938	false		
+133243	false		
+133270			
+133850			
+133971	false		
+134156	false		
+134400			
+134437	false		
+134455	false		
+134848	false		
+135359	false		
+135751	false		
+135836	false		
+135854	false		
+136048	false		
+136338	false		
+136459	false		
+136655	false		
+137120	false		
+137205	false		
+137447	false		
+137456	false		
+137559	false		
+137643	false		
+137652			
+137821	false		
+137915	false		
+138051	false		
+138136	false		
+138163	false		
+138211	false		
+138257	false		
+138350	false		
+138510	false		
+138556			
+138725	false		
+138752	false		
+138930	false		
+139133	false		
+139432	false		
+139478	false		
+139544	false		
+139553	false		
+139656	false		
+139740	false		
+139834	false		
+139843	false		
+139852	false		
+139900			
+139955	false		
+140018	false		
+140157	false		
+140362			
+140513	false		
+140634	false		
+141211	false		
+141341	false		
+141350	false		
+141453	false		
+141556	false		
+141734	false		
+141958			
+142049	false		
+142656			
+142955	false		
+143000			
+143158	false		
+143653			
+143662	false		
+143859	false		
+143952	false		
+144034	false		
+144043	false		
+144052	false		
+144155	false		
+144436	false		
+144856	false		
+144913	false		
+144959	false		
+144968	false		
+145059	false		
+145255	false		
+145545	false		
+145554	false		
+145657	false		
+145741	false		
+145750			
+145835			
+145844	false		
+145956	false		
+146056	false		
+146243	false		
+146458			
+146533	false		
+146618	false		
+146654	false		
+146663	false		
+146850	false		
+147053	false		
+147633			
+147651	false		
+147679	false		
+147839	false		
+147857	false		
+147914			
+147923	false		
+148144	true		
+148238	false		
+148340	false		
+148528			
+148555	false		
+148715	false		
+148809	false		
+148920	false		
+149150	false		
+149235	false		
+149253	false		
+149271			
+149945	false		
+150035	false		
+150044			
+150071			
+150156	false		
+150334	false		
+150352	false		
+150576	false		
+150727	false		
+150754	false		
+151331			
+151546	false		
+151555	false		
+151751	false		
+151818	false		
+151957	false		
+152048	false		
+152057	false		
+152235			
+152253	false		
+152431	false		
+152440	false		
+152673	false		
+152712	false		
+152851	false		
+153054	false		
+153353	false		
+153652	false		
+154154	false		
+154220			
+154257	false		
+154770	false		
+155049	false		
+155245			
+155263	false		
+155441	false		
+155517	false		
+155759	false		
+156055	false		
+156457	false		
+156635	false		
+156877			
+156916			
+156952	false		
+157155			
+157379	false		
+157605	false		
+157650	false		
+157744	false		
+157838	false		
+157856	false		
+157904	false		
+158554	false		
+158741	false		
+158750			
+158947	false		
+158974	false		
+159243	false		
+159476	false		
+159627	false		
+159636	false		
+159645	false		
+159953	false		
+160333	false		
+160360	false		
+160454	false		
+160557	false		
+160614	false		
+160650	false		
+160959	false		
+161022	false		
+161031			
+161107	false		
+161273			
+161415	false		
+161433	false		
+161527	true		
+161602			
+162337			
+162878	false		
+163343			
+163370			
+163549	false		
+163745	false		
+163857	false		
+163923	false		
+164032			
+164153			
+164331	false		
+164377			
+164742	false		
+164854	false		
+164957	false		
+164975	false		
+165039			
+165356	false		
+165628			
+165758	false		
+165806	false		
+166072	false		
+166111	false		
+166531	false		
+166652	false		
+166737	false		
+166803			
+166849	false		
+167060	false		
+167257	false		
+167453	true		
+167556	false		
+167565	false		
+167752			
+167855	false		
+167864			
+168320			
+168357	false		
+168366	false		
+168441			
+168571	false		
+168731	false		
+168759	false		
+169073			
+169233	false		
+169251	false		
+169327	false		
+169354			
+169569	false		
+169653	false		
+169756	false		
+169859	false		
+169952	false		
+170051	false		
+170257	false		
+170332	false		
+170640	false		
+170716	false		
+170912	false		
+170976	false		
+171133	false		
+171227	false		
+171348	false		
+171656	false		
+171759	false		
+171768	false		
+171852	false		
+172000			
+172158	false		
+172251	false		
+172354	false		
+172363	false		
+172457	false		
+172747	false		
+172804	false		
+172840	false		
+172859	false		
+173306	false		
+173333	false		
+173342	false		
+173454	false		
+173548			
+173557	false		
+173575	false		
+173641	false		
+173717	false		
+173801			
+173838			
+173959	false		
+174321	false		
+174367	false		
+174406	false		
+174451	false		
+174648	false		
+175056	false		
+175140	false		
+175458	false		
+175560			
+175609	false		
+175672	false		
+176053	false		
+176101	false		
+176240	false		
+176325	false		
+176437	false		
+176464			
+176642			
+177078	false		
+177135	false		
+177443	false		
+177500	false		
+177546	false		
+177555	false		
+177742	false		
+177751	false		
+177920	false		
+177948	false		
+177957	false		
+178020	false		
+178057	false		
+178150			
+178244	false		
+178271	false		
+178356	false		
+178561	false		
+178851	false		
+179148	false		
+179335	false		
+179559	false		
+179700	false		
+179755	false		
+180041	false		
+180078	false		
+180144	false		
+180153	false		
+180201	false		
+180416	false		
+180443	false		
+180537	false		
+180649	false		
+180845	true		
+181169	false		
+181347	false		
+181404	false		
+181459	false		
+181758			
+181851	false		
+181963			
+182054	false		
+182157	false		
+182175	false		
+182353	false		
+182401	false		
+182456	false		
+182540	false		
+182652	false		
+182951			
+183042	false		
+183051	false		
+183154	false		
+183668	false		
+183770	false		
+183846	false		
+183958			
+184142	false		
+184245			
+184263	false		
+184375	false		
+184656	false		
+184759			
+184937			
+185037	false		
+185251	false		
+185448	false		
+185457	false		
+185514			
+185859	false		
+186221	false		
+186548	false		
+186557	false		
+186650			
+186717	false		
+186744	false		
+186838	false		
+186856	false		
+187358	false		
+187451	false		
+187648	false		
+187947	false		
+188056	false		
+188261	false		
+188364			
+188430	false		
+188449			
+188720	false		
+188739	false		
+188757	false		
+188917	false		
+188926			
+189044			
+189129	false		
+189352	false		
+189419	false		
+189530	false		
+189549			
+189745	true		
+189820	false		
+189950	false		
+190246			
+190451	false		
+190554			
+190563	false		
+190639	false		
+190648			
+190732	false		
+190947	false		
+190956	false		
+191177	false		
+191355	false		
+191449	false		
+191458	false		
+191663	false		
+191805	false		
+191832	false		
+191935	false		
+191944	false		
+192147	false		
+192156	false		
+192352	false		
+192558	false		
+192606	false		
+192651	false		
+192857	false		
+193162	false		
+193247			
+193452	false		
+193461	false		
+193470	false		
+193537	false		
+193649	false		
+193809	false		
+194253	false		
+194440			
+194936	false		
+195072	false		
+195111	false		
+195157	false		
+195353	false		
+195456	false		
+195634	false		
+195867			
+196257	false		
+196350	false		
+196426	false		
+196743	false		
+196752	false		
+196800	false		
+197142	false		
+197254	false		
+197302	false		
+197357			
+197478			
+197571	false		
+197740	false		
+197759	false		
+198046	false		
+198103	false		
+198149			
+198251			
+198448	false		
+198671	false		
+198831			
+198859	false		
+198934	false		
+198961	false		
+199052	false		
+199137	false		
+199351	false		
+199436	false		
+199454	false		
+199463	false		
+199940	false		
+200042			
+200435	false		
+200547	false		
+200631	false		
+200640	false		
+201049	false		
+201124	false		
+201254	false		
+201441	false		
+201638	false		
+201647	false		
+201834			
+202251	false		
+202514	false		
+202541	false		
+202550	false		
+202907			
+202970	false		
+203052	false		
+203333	false		
+203418	false		
+203575	false		
+203753			
+203847	false		
+204004	false		
+204237	false		
+204808	false		
+204826			
+205159	false		
+205243	false		
+205337			
+205346	false		
+205430	false		
+205458	false		
+205542			
+205654	false		
+206156	false		
+206567	false		
+206772	false		
+206950	false		
+207041	false		
+207050			
+207452	false		
+207555	false		
+207564			
+207845	false		
+207872	false		
+207957	false		
+208057	false		
+208169	false		
+208244	false		
+208329	true		
+208347	false		
+208440	false		
+208459			
+208655	false		
+208927			
+208972	false		
+209139	false		
+209148	false		
+209335	false		
+209362	false		
+209447	false		
+209559	false		
+209652	false		
+209830	false		
+209858	false		
+210238	false		
+210256	false		
+210434	false		
+210443	false		
+210452	false		
+210555			
+211114	false		
+211338	false		
+211543	false		
+211628			
+211851	false		
+211954	false		
+212018	false		
+212120	false		
+212335	false		
+212344	false		
+212456	false		
+212465	true		
+212522	false		
+213538	false		
+213912	false		
+213921			
+213958	false		
+214106	false		
+214414	false		
+214571	false		
+214722	false		
+214807	false		
+214843	false		
+215130	false		
+215251			
+215345	false		
+215354	false		
+215363	false		
+215523	false		
+215653	false		
+215662	false		
+215710	false		
+215756	false		
+215952	false		
+216100	true		
+216164	false		
+216230			
+216258	false		
+216445	false		
+216632	false		
+216922	false		
+216968	false		
+217059	false		
+217479	true		
+217620	false		
+218131	false		
+218261	false		
+218757	false		
+218775	false		
+218832	false		
+218850	false		
+218878	false		
+219044	false		
+219259			
+219343			
+219651	false		
+219857	false		
+220040	false		
+220059			
+220527	false		
+220545			
+220554	false		
+220844	false		
+221476	false		
+221533	false		
+221654			
+222053			
+222147	false		
+222156	false		
+222446	false		
+222558	false		
+222754	false		
+223005	false		
+223238	false		
+223322	false		
+223331	false		
+223452	false		
+223658	false		
+223751	false		
+223845	false		
+224552	false		
+224637	false		
+224655			
+224749	false		
+224954	false		
+225054	false		
+225157	false		
+225166			
+225241			
+225250	false		
+225335	false		
+225559			
+225728	false		
+225773	false		
+225942	false		
+226051			
+226659	false		
+226734	false		
+226752	false		
+226949	false		
+227151	false		
+227179			
+227357	false		
+227405	false		
+227656	false		
+228000			
+228055	false		
+228158	false		
+228345	false		
+228952	false		
+229146	false		
+229342			
+229427	false		
+229454	false		
+229641	false		
+229650			
+229801	false		
+229913	false		
+229940	false		
+229959	false		
+230254	false		
+230357	false		
+230423	false		
+230508	false		
+230535	false		
+230553	false		
+230610	false		
+230740	false		
+230759			
+231149	false		
+231242			
+231279	false		
+231336	false		
+231961	false		
+232258	false		
+232548	false		
+232744	false		
+232847	false		
+232856			
+233022	false		
+233031	false		
+233246	false		
+233358	false		
+233442	false		
+233451	false		
+233527	false		
+233554			
+234056	false		
+234355	false		
+234506			
+234645	false		
+234739	false		
+234841	false		
+234944	false		
+235017	false		
+235231	false		
+235316	false		
+235446	false		
+235521	false		
+235530			
+235558	false		
+235950	false		
+236050	false		
+236153	false		
+236256	false		
+236452	false		
+236519	false		
+236603	false		
+236649	false		
+236667	false		
+236706	false		
+236751	false		
+236957	false		
+237066	false		
+237150	false		
+237619	false		
+237637	false		
+237936	false		
+237954	false		
+238045	false		
+238139	false		
+238241	false		
+238250	false		
+238371			
+238661			
+238737			
+238755	false		
+238812	false		
+239015	false		
+239042	false		
+239275			
+239323	false		
+239556	false		
+239613	false		
+239640	false		
+239659	false		
+239752	false		
+240141	false		
+240356	false		
+240459	false		
+240468			
+240954	false		
+241009	false		
+241157			
+241559	false		
+241607	false		
+242015			
+242248	false		
+242257	false		
+242275	false		
+242444	false		
+242565	false		
+242949			
+242958	false		
+243151	false		
+243357	false		
+243375	false		
+243414	false		
+243647	false		
+243870	false		
+243955	false		
+244037	false		
+244149	false		
+244158	false		
+244251	false		
+244345			
+244907			
+245016	false		
+245276	false		
+245333	false		
+245351			
+245557			
+245566	false		
+245856	false		
+246022	false		
+246134	false		
+246237	false		
+246321	false		
+246451	false		
+246657	false		
+246947	false		
+246956	false		
+247140	false		
+247355	true		
+247449	false		
+247476	false		
+247551	false		
+247645	false		
+247711	false		
+247775	false		
+247908	false		
+248147	false		
+248240	false		
+248352	false		
+248455	false		
+248633	false		
+248745			
+248950	false		
+248969	false		
+249153	false		
+249256	false		
+249304			
+249368			
+249416	false		
+249546	false		
+249555	false		
+249564	false		
+249612	false		
+249658	false		
+249872	false		
+249957	false		
+250047	false		
+250113			
+250430			
+250850	false		
+251008	false		
+251053	false		
+251352	false		
+251558	false		
+251736	false		
+251745	false		
+251857	false		
+251969	false		
+252041	false		
+252256	false		
+252452	false		
+252658	false		
+252706			
+252836	false		
+252957	false		
+253262	false		
+253356			
+253440			
+253468	false		
+253646	false		
+253730	false		
+253776	true		
+254148			
+254214			
+254317	false		
+254504	false		
+254577			
+254652			
+254670	false		
+254849	false		
+254867	false		
+255136			
+255350	false		
+255462	false		
+255547	false		
+255556	false		
+255659	false		
+255873	false		
+255958	false		
+256049	false		
+256058	false		
+256179	false		
+256272	false		
+256432	false		
+256450	false		
+256553	false		
+256647	false		
+256722	false		
+256964			
+257000			
+257233	false		
+257345	false		
+257466	false		
+257653	false		
+257756	false		
+257840	false		
+257868			
+258146	false		
+258306	false		
+258351	false		
+258379	false		
+258445	false		
+258539	false		
+258632	false		
+258771	false		
+259031			
+259059	false		
+259330			
+259376	false		
+259442	false		
+259518	false		
+259554			
+259657	false		
+259853	false		
+259956	false		
+260055	false		
+260149	false		
+260354	false		
+260831	false		
+260868	false		
+261070	false		
+261146	false		
+261258	false		
+261360	false		
+261557	false		
+261632	false		
+261904			
+261940	false		
+262059	false		
+262068	false		
+262237	false		
+262273			
+262349	false		
+262358	false		
+262451	false		
+262741	false		
+262844			
+262956	false		
+262965	false		
+263243	false		
+263551	false		
+263627	false		
+263953	false		
+264156	false		
+264455	false		
+264558	false		
+264941	false		
+265041	false		
+265256	false		
+265340			
+265407	false		
+265452			
+265676	false		
+265948	false		
+266066	false		
+266244	false		
+266253	false		
+266271			
+266440	false		
+266655	false		
+266851	false		
+266879	false		
+266945			
+267652	false		
+267737			
+267755	false		
+267979			
+268042	false		
+268136	false		
+268257	false		
+268341			
+268556	false		
+268734	false		
+268828	false		
+268846	false		
+268976	false		
+269049	false		
+269058	false		
+269432	false		
+269478	false		
+269656			
+269759	false		
+270036	false		
+270148	false		
+270241	false		
+270335	false		
+270353	false		
+270504			
+270531	false		
+270652	false		
+271136	false		
+271154	false		
+271275			
+271341			
+271529			
+271631	false		
+271743	false		
+271752	false		
+271855			
+272030	false		
+272058			
+272151	false		
+272218	false		
+272245	false		
+272254	false		
+272272	false		
+272302	false		
+272357	false		
+272469	false		
+272870	true		
+273149	false		
+273251	false		
+273336	false		
+273523			
+273550	false		
+273653	false		
+273662	false		
+273840	false		
+273859	false		
+273907	false		
+274025	false		
+274052	false		
+274164	false		
+274548	false		
+274641	false		
+274753	false		
+274829	false		
+274856	false		
+275116	false		
+275255			
+275358	false		
+275509	false		
+275657	true		
+275750			
+275769	false		
+276159	false		
+276355	false		
+276449	false		
+276551	false		
+276579	false		
+276645			
+276654	false		
+276711	false		
+276775	false		
+276850			
+276953	false		
+277053	false		
+277138	false		
+277240	false		
+277277	false		
+277558	false		
+277567	false		
+277736	false		
+277820	false		
+277950			
+278078	false		
+278153	false		
+278256	false		
+278555			
+278733	false		
+278751	false		
+278818	false		
+278957	false		
+279105			
+279253	false		
+279338	false		
+279673	false		
+279842			
+279954	false		
+280044	false		
+280110	false		
+280138	false		
+280352	false		
+280558	false		
+280624	false		
+280950	true		
+281144	false		
+281210	false		
+281247	false		
+281416	false		
+281751	false		
+281845	false		
+282048	false		
+282141	false		
+282208	false		
+282226	false		
+282329			
+282824	false		
+283054	false		
+283157	false		
+283438	false		
+283652	false		
+283737	false		
+283858	false		
+283867	false		
+284154	false		
+284239	false		
+284248	false		
+284257	false		
+284332	false		
+284408	false		
+284556	false		
+284743	false		
+284819	false		
+284958			
+285151	false		
+285348	false		
+285544			
+285553	false		
+285740	false		
+285759	false		
+285777	false		
+285852	false		
+285928	false		
+285937	false		
+286251	false		
+286457	false		
+286466	false		
+286840	false		
+286952	false		
+287007			
+287155	false		
+287324	false		
+287342	false		
+287351	false		
+287445	false		
+287539	false		
+287650	false		
+287856	false		
+287922	false		
+287959	false		
+288152	false		
+288358	false		
+288376	false		
+288750	false		
+288853	false		
+289056			
+289065			
+289225			
+289449	false		
+289515			
+289542	false		
+289702	false		
+289739	false		
+289757	false		
+290052	false		
+290230	false		
+290249			
+290838	false		
+290847	false		
+290922	false		
+291059			
+291152			
+291246	false		
+291273	false		
+291330	false		
+291611	false		
+291732	false		
+291910	false		
+292234	false		
+292467	false		
+292524	false		
+292850	false		
+292908	false		
+293026			
+293053			
+293352	false		
+293437	false		
+293558	false		
+293651	false		
+293736	false		
+293754			
+294023	false		
+294153	false		
+294256			
+294331	false		
+294359	false		
+294564	false		
+294751			
+294779	false		
+294809	false		
+294827	false		
+294872	false		
+295011	false		
+295057	false		
+295356	false		
+295552	false		
+295628	false		
+295637	false		
+295646	false		
+295758	false		
+296102	false		
+296438	false		
+296447	false		
+296456	false		
+296559	false		
+296755	false		
+296858			
+297042	false		
+297051	false		
+297257	false		
+297453			
+297547	false		
+297631	false		
+297734	false		
+297761	false		
+298049	false		
+298058			
+298124	false		
+298218	false		
+298245	false		
+299046	false		
+299055	false		
+299158	false		
+299251	false		
+299644	false		
+299653	false		
+299868	false		
+300009			
+300036			
+300063	false		
+300157	false		
+300250	false		
+300353	false		
+300371	false		
+300456	false		
+300531	false		
+300559	false		
+300933			
+300942	false		
+300960	false		
+301453			
+301640	false		
+301668	false		
+301800	false		
+302030	false		
+302133	false		
+302450	false		
+302553	false		
+302656	false		
+302665	false		
+302852	false		
+303345	false		
+303550	false		
+303653	true		
+303701	false		
+303747	false		
+303952	false		
+304034	false		
+304155	false		
+304173	false		
+304520	false		
+304762	false		
+304913	false		
+305059	false		
+305152			
+305237	false		
+305433	false		
+305442			
+305648	false		
+305750	false		
+305835	false		
+306056	false		
+306140	false		
+306159			
+306319	false		
+306337	false		
+306739	false		
+306908	false		
+306962	false		
+307053			
+307062	false		
+307231	false		
+307334			
+307361	false		
+307679	false		
+307745			
+307932	false		
+307950	false		
+308247	false		
+308256	false		
+308340			
+308443	false		
+308649	false		
+308836	false		
+309150	false		
+309347			
+309570	false		
+309655	false		
+309664	false		
+309758	false		
+309851	false		
+309936	false		
+310053	false		
+310231	false		
+310437	false		
+310727	false		
+310736			
+310754	false		
+310875	false		
+310950	false		
+310978	false		
+311050	false		
+311144	false		
+311256	false		
+311265	false		
+311331	false		
+311359	false		
+311452	false		
+311603	false		
+311649	false		
+311658	false		
+311845	false		
+311939	false		
+312244	false		
+312356	false		
+312431	false		
+312730	true		
+312954	false		
+313009	false		
+313157	false		
+313223			
+313241			
+313401	false		
+313531	false		
+313577	false		
+314033	false		
+314257	false		
+314444	false		
+315339	false		
+315348	false		
+315357	false		
+315629			
+315656	false		
+315674	false		
+315852	false		
+315973			
+316158	false		
+316336	false		
+316354	false		
+316738	false		
+316840			
+316859	false		
+316916	false		
+316934	false		
+317100	false		
+317258	false		
+317342			
+317650	false		
+317735	false		
+318125	false		
+318639	false		
+318835	false		
+318947	false		
+319047	false		
+319458	false		
+319542			
+319551			
+320034	false		
+320052	false		
+320070	false		
+320119	false		
+320155	false		
+320276	false		
+320856	false		
+321152	false		
+321255	false		
+321330	false		
+321536	false		
+321844			
+321947	false		
+322056	false		
+322449	false		
+322458			
+322476	false		
+322551	false		
+322757	false		
+322850	false		
+323035	false		
+323204	false		
+323651			
+323718	false		
+324153	false		
+324229			
+324256	false		
+324274	false		
+324340	false		
+324649	false		
+324751	false		
+324854	false		
+324863	false		
+324902	false		
+324975	false		
+325141	false		
+325459	false		
+325534	false		
+325824	false		
+326054			
+326250	false		
+326344	false		
+326670	false		
+326858	false		
+326979	false		
+327015	false		
+327220	false		
+327305	false		
+327435	false		
+327453	false		
+327556	false		
+327855	false		
+327949	false		
+328058	false		
+328151	false		
+328357	false		
+328423	false		
+328450	false		
+328553			
+328656			
+328777	false		
+329149	false		
+329345	false		
+329550	false		
+329578	false		
+329756			
+329952			
+330239	false		
+330248	false		
+330417	false		
+330453	true		
+330659	false		
+330855	false		
+330873	false		
+330949	false		
+331106			
+331375	false		
+331544	false		
+331553	false		
+331647	true		
+331656	false		
+331713	false		
+332055	false		
+332224	false		
+332345	false		
+332402	false		
+332644	false		
+332756	false		
+332907			
+332970	true		
+333034	false		
+333043	false		
+333052	false		
+333203	false		
+333249	false		
+333650	false		
+333856	false		
+333940	false		
+334059	false		
+334255	false		
+334264	false		
+334648	false		
+334657	false		
+334750	false		
+335243			
+335346	false		
+335355	false		
+335757	false		
+336071	false		
+336147	false		
+336352	false		
+336361	false		
+336576	false		
+336932	false		
+336950			
+337050	false		
+337247	false		
+337340	false		
+337658	false		
+337733	false		
+337966	false		
+338178	false		
+338646	false		
+338758	false		
+338851	false		
+338945	false		
+339054	false		
+339353			
+339456			
+339607	false		
+339773	false		
+339858	false		
+339951	false		
+340135	false		
+340144	false		
+340256	false		
+340443	false		
+340555			
+340649	false		
+340742	false		
+340751	false		
+341310			
+341356	false		
+341646	false		
+341851	false		
+341918	false		
+341954	false		
+341972	false		
+342054	false		
+342175	false		
+342362	false		
+342410	false		
+342634	false		
+342643	false		
+342960	false		
+343051	false		
+343248	false		
+343257			
+343314	false		
+343341	false		
+343556	false		
+343770	false		
+343903	false		
+343958	false		
+344236	false		
+344423	false		
+344647	false		
+344674	false		
+344816	false		
+344852	false		
+345149	false		
+345158	false		
+345309	false		
+345345	false		
+345747	false		
+345756	false		
+346566	false		
+346744	false		
+347022	false		
+347639	false		
+347657	false		
+347956	false		
+348159	false		
+348207	false		
+348319	false		
+348458	false		
+348542	false		
+348551	false		
+348720	false		
+348748	false		
+349044	false		
+349053			
+349129	false		
+349165	false		
+349343	false		
+349370			
+350433	false		
+350554			
+350657			
+350750	false		
+351122			
+351131	false		
+351207			
+351355	false		
+351560			
+351850	false		
+352035			
+352558	false		
+352651	false		
+352745	false		
+352772			
+352820	false		
+352857	false		
+353023	false		
+353069	false		
+353238	false		
+353322	false		
+353359	false		
+353546	false		
+353555	false		
+353724	false		
+353751	false		
+353957	false		
+354057	false		
+354132	false		
+354253	false		
+354310	false		
+354552	false		
+354851	false		
+354954	false		
+355120	false		
+355559	false		
+355737	false		
+355746			
+355821	false		
+355858			
+356145	false		
+356239	false		
+356350	false		
+356659	false		
+356752	false		
+356930	false		
+356949	false		
+357049	false		
+357058	false		
+357151	false		
+357375	false		
+357432	false		
+357526	false		
+357553	false		
+357610	false		
+357740	false		
+357777	false		
+357834	false		
+357937	false		
+358112	false		
+358149	false		
+358233	false		
+358448	false		
+358635	false		
+358756	false		
+359070	false		
+359324	false		
+359351	false		
+359360	false		
+359548	false		
+359650	false		
+359744	false		
+359838	false		
+359847	false		
+359856	true		
+359959	false		
+360777	false		
+360834	false		
+360843	false		
+360852	false		
+360955	false		
+361055	true		
+361121	false		
+361167	false		
+361279	false		
+361354	false		
+361439			
+361457	false		
+361541	false		
+361653	false		
+362007	false		
+362043			
+362052	false		
+362155	false		
+362445	false		
+362463	false		
+362708	false		
+362717	false		
+362753	false		
+362856	false		
+362940	false		
+363264			
+363415			
+363442	true		
+363648	false		
+363657	false		
+363844	false		
+363956	false		
+364056	false		
+364131	false		
+364337	false		
+364430	false		
+364449	false		
+364850	false		
+364971	false		
+365138	false		
+365325	false		
+365455	false		
+365558	false		
+365651			
+365745	false		
+365848	false		
+365941	false		
+365950	false		
+366078	false		
+366238	false		
+366247	false		
+366359	false		
+366434			
+366658			
+366667	false		
+366854	false		
+367150			
+367208			
+367244	false		
+367431	false		
+367543	false		
+367552	false		
+367673			
+367851	false		
+367954	false		
+368054			
+368111	true		
+368344	false		
+368429	true		
+368447	false		
+368522	false		
+368755	false		
+368933	false		
+368951	false		
+369257	false		
+369426	false		
+369435	false		
+369453	false		
+369659	false		
+370020	false		
+370150	false		
+370338	false		
+370347	false		
+370646	false		
+370721			
+370730	false		
+370758	false		
+370833	false		
+370954	false		
+371223	false		
+371232	false		
+371353	false		
+371362	false		
+371559			
+371755	false		
+371849	false		
+371858	false		
+371915	false		
+371924	false		
+371942			
+372109	false		
+372248	false		
+372257	false		
+372444	false		
+372538			
+372556	false		
+372640	false		
+372855	false		
+373058	false		
+373115	false		
+373553	false		
+373601			
+374130	false		
+374149	false		
+374354	false		
+374653	false		
+374774	false		
+374934	false		
+375034	false		
+375043	false		
+375155	false		
+375409	false		
+375502			
+375566	false		
+375650	false		
+375735	false		
+376068	false		
+376125	false		
+376237	false		
+376433	false		
+376442	false		
+376657	false		
+376947	false		
+377506	false		
+377663	false		
+377823	false		
+377850			
+377908			
+378026	false		
+378044	false		
+378110	false		
+378259	false		
+378549	false		
+378558	false		
+378642	false		
+378651	false		
+378950	false		
+379050	false		
+379153	false		
+379359			
+379470	false		
+379573	false		
+379649	false		
+379658	false		
+379920	false		
+380038	false		
+380346	false		
+380458	false		
+380533	false		
+380654			
+380841	false		
+380944	false		
+381026	false		
+381259	false		
+381334	false		
+381343	false		
+381727	false		
+381754	false		
+381839			
+381857	false		
+381950	false		
+382050	false		
+382069	false		
+382256	false		
+382443	false		
+382537	false		
+382649	false		
+382658	false		
+382667	false		
+382733	false		
+382742	false		
+382751	false		
+382854	false		
+383253	false		
+383534	false		
+384018	false		
+384335	false		
+384353	false		
+384540	false		
+384652	false		
+384830	false		
+385350	false		
+385547	false		
+385631	false		
+385976			
+386049	false		
+386142	false		
+386357	false		
+386432	false		
+386731	false		
+386825	false		
+386852	false		
+387000	false		
+387055			
+387336	false		
+387345	false		
+387457	false		
+388155	false		
+388258	false		
+388557	false		
+388744	false		
+388753	false		
+388931	false		
+388940	false		
+389059	false		
+389358	false		
+389657	false		
+389826			
+390167	false		
+390336			
+390457	false		
+390505	false		
+390765			
+390840	false		
+390859	false		
+390925	false		
+391137			
+391249	false		
+391418	false		
+391557	false		
+391650			
+391838			
+391856	false		
+391959	false		
+391977	false		
+392031	false		
+392152			
+392228	false		
+392255	false		
+392358	false		
+392451	false		
+392620	false		
+392778	false		
+392844	false		
+393252	false		
+393355	false		
+393757	false		
+393850	false		
+393953	false		
+394053			
+394156	false		
+394259	false		
+394352	false		
+394932	false		
+395238	false		
+395256	false		
+395377			
+395452	false		
+395555	false		
+395836	false		
+396057			
+396244	false		
+396253	false		
+396271	false		
+396356	false		
+396879	false		
+396954	false		
+397447	false		
+397456	false		
+397531	false		
+397540	false		
+397559	false		
+397652	false		
+397755	false		
+397858	false		
+398051	false		
+398248			
+398350	false		
+398631			
+398668	false		
+398837	false		
+399067	false		
+399142			
+399151	false		
+399357	false		
+399517	false		
+399656	true		
+399731			
+400057	false		
+400141	false		
+400253			
+400356	false		
+400365			
+400552	false		
+400758	false		
+400767	false		
+400945	false		
+401148	false		
+401447	false		
+401559	false		
+401755	false		
+401906	false		
+401951	false		
+402462	false		
+402837	false		
+402846	false		
+402949	false		
+403058	false		
+403067	false		
+403106	false		
+403151	false		
+403254	false		
+403348	false		
+403357	false		
+403441	false		
+403553	false		
+403656			
+403937	false		
+403946			
+404653	false		
+404747	false		
+404774	false		
+404943	false		
+405061	false		
+405641			
+405744	false		
+405959	false		
+406022	false		
+406059	false		
+406255	false		
+406349	false		
+406554	false		
+406666	false		
+406974			
+407168	false		
+407252	false		
+407373			
+407506	false		
+407645	false		
+407850			
+408147	false		
+408307	false		
+408473	false		
+408642	false		
+409265	false		
+409555			
+409649	false		
+410056	false		
+410159	false		
+410337	false		
+410560	false		
+410748	false		
+410917			
+410944	false		
+411053	false		
+411062	false		
+411231	false		
+411240	false		
+411464	true		
+411512	false		
+411549			
+411576	false		
+411624	false		
+411651	false		
+412135	false		
+412153	false		
+412452			
+412546	false		
+412555	false		
+412667	false		
+412751			
+412845	false		
+413141	false		
+413208	false		
+413347	false		
+413543	false		
+413570	false		
+413646	false		
+413730	false		
+413758	false		
+413851	false		
+414102	false		
+414652	false		
+414728	false		
+414764	false		
+414858	false		
+415051	false		
+415444			
+415855	false		
+416245	false		
+416339	false		
+416348			
+416357	false		
+416656			
+416674	false		
+417149			
+417158	false		
+417251	false		
+417448	false		
+417626	false		
+417635			
+417710	false		
+417738	false		
+417859	false		
+417943	false		
+417952	false		
+418034	false		
+418100	false		
+418249			
+418342	false		
+418436	false		
+418753	false		
+418847	false		
+418856	false		
+419152	false		
+419255	false		
+419406			
+419460	false		
+419675	false		
+419947	false		
+420233	false		
+420457	false		
+420644	false		
+420653	false		
+420868			
+420934	false		
+421155	false		
+421203	false		
+421445			
+421539	false		
+421838			
+422059	false		
+422116	false		
+422358	false		
+422433	false		
+422657	false		
+422750			
+423065			
+423159			
+423355	true		
+423449	false		
+423458	false		
+423636	false		
+423739	false		
+423841	false		
+424035	false		
+424156	false		
+424240	false		
+424343	false		
+424352	false		
+424437	false		
+424633	false		
+425050	false		
+425108	false		
+425135	false		
+425818	false		
+425845			
+425911	false		
+425957	false		
+425975	false		
+426057	false		
+426141	false		
+426347	false		
+426534	false		
+426758	false		
+426945	false		
+427241	false		
+427353	false		
+427447	false		
+427456	false		
+427719	false		
+427858	false		
+427915			
+427933	false		
+427960	false		
+428033	false		
+428060	false		
+428462	false		
+428547	false		
+428631	false		
+428659	false		
+428752			
+428855	false		
+428958	false		
+429021	false		
+429526	false		
+429535	false		
+429759	false		
+430036	false		
+430054	false		
+430157	false		
+430344	false		
+430670	false		
+430858	false		
+431323	false		
+431350	false		
+431743	false		
+431846	false		
+431958	false		
+432012	false		
+432058	false		
+432348	false		
+432432	false		
+433158	false		
+433354			
+433439	false		
+433505	false		
+433550	false		
+433608	false		
+433859	false		
+433943	false		
+434203	false		
+434539	false		
+435059	false		
+435152	false		
+435255	false		
+435349	false		
+435358	false		
+435451	false		
+435666	false		
+435750	false		
+436131	false		
+436159			
+436252	false		
+436467	false		
+436542	false		
+436711			
+436739	false		
+436823	false		
+436953			
+436971	false		
+437044	false		
+437053	false		
+437138	false		
+437156	false		
+437231	false		
+437455			
+437521			
+438050	false		
+438238	false		
+438265	false		
+438368	false		
+438434	false		
+438715	false		
+439132			
+439141	false		
+439338			
+439356	false		
+439404	false		
+439459	false		
+439730	false		
+439833			
+439860	false		
+440110	false		
+440174	false		
+440259	false		
+440352	false		
+440446	false		
+440857	false		
+441050			
+441078	false		
+441135	false		
+441256	false		
+441359	false		
+441434			
+441630	false		
+442039	false		
+442057			
+442244	false		
+442253	false		
+442356	false		
+442534	false		
+442655	false		
+442749	false		
+442758	false		
+442776	false		
+442806	false		
+443036			
+443148	false		
+443205	false		
+443353	false		
+443447	false		
+443625	false		
+443634	false		
+443951	false		
+444051	false		
+444172	false		
+444257	false		
+444350	false		
+444556	false		
+444677	false		
+444958	false		
+445339	false		
+445843	false		
+445852	false		
+445955			
+446130	false		
+446149	false		
+446336			
+446877	false		
+447034			
+447070	false		
+447100	false		
+447342	false		
+447351			
+447557	false		
+447744	false		
+447874	false		
+448040	false		
+448554			
+449038	false		
+449122	false		
+449430	false		
+449458	false		
+449832	false		
+449841	false		
+449850	false		
+449926	false		
+449953	false		
+450034	false		
+450632	false		
+450641	false		
+450650	false		
+450669	false		
+450753	false		
+450856	false		
+450959	false		
+451068			
+451246	false		
+451424	false		
+451853	false		
+451965	false		
+452104	false		
+452159	false		
+452270	false		
+452739	false		
+452841	false		
+452850			
+453026	false		
+453071	true		
+453147			
+453352	true		
+453446	false		
+453839	false		
+454340	false		
+454434	false		
+454546	false		
+454658	false		
+454742	true		
+455150	false		
+455253	false		
+455365	false		
+455459			
+455534	false		
+455552	false		
+455561	false		
+455945	false		
+455972			
+456045	false		
+456054	false		
+456157	false		
+456250	false		
+456344	false		
+456447			
+456456			
+456474			
+456670			
+456755	false		
+456858			
+456960			
+457060	false		
+457145	false		
+457220			
+457426	false		
+457547	false		
+457659	false		
+457752			
+458049			
+458142	false		
+458263	false		
+458357	false		
+458544	false		
+458553	false		
+458665	false		
+458946	false		
+459046	false		
+459130	false		
+459354	true		
+459372	false		
+459448	false		
+459644	false		
+459671	false		
+460033	false		
+460248	false		
+460332	false		
+460341	false		
+460350	false		
+460556	false		
+460770	false		
+460855			
+461058	false		
+461245	false		
+461254	false		
+461441			
+461535			
+461946	false		
+462738	true		
+462756	false		
+463203	false		
+463342			
+463351	false		
+463557	false		
+463605	false		
+463650	false		
+463735			
+464116	false		
+464255	false		
+464536	false		
+464750	false		
+464853	false		
+464956			
+465038	false		
+465243	false		
+465337	false		
+465524	false		
+465542			
+465618	false		
+465645	false		
+465672			
+465748	false		
+465757			
+465850	false		
+466044	false		
+466240	false		
+466549	false		
+466558	false		
+466642			
+466754	true		
+466857	false		
+466932	false		
+467144			
+467265	false		
+467630			
+467658	false		
+467733	false		
+467957	false		
+468655	false		
+468954	false		
+469157	false		
+469250	false		
+469308	false		
+469362	false		
+469540	false		
+469559	false		
+469643	false		
+469737	false		
+469849	false		
+470032	false		
+470050	true		
+470256	false		
+470434	false		
+470452	false		
+470724	false		
+470836	false		
+471057	false		
+471217	false		
+471570	false		
+471749	false		
+471945			
+472018			
+472045	false		
+472148	false		
+472250	false		
+472335			
+472353	false		
+472531	false		
+472616	false		
+472643	false		
+472652	false		
+472858	false		
+472951	false		
+472979	false		
+473042	false		
+473257	false		
+473266	false		
+473341	false		
+473501			
+473930	false		
+474058	false		
+474245	false		
+474254	false		
+474339	false		
+474348	false		
+474357	false		
+474450	false		
+474544	false		
+474656	false		
+474759			
+474825	false		
+474919			
+474946	false		
+475046	false		
+475215	false		
+475345	false		
+475354	false		
+475363	false		
+475550	false		
+475653	false		
+475756			
+475934	false		
+476276	false		
+476342	false		
+476445	false		
+476454	false		
+476539	false		
+476810	false		
+476968	false		
+477059	false		
+477143	false		
+477303	false		
+477321			
+477349			
+477376	false		
+477554	false		
+477639	false		
+477648			
+477657	false		
+477844			
+477929	false		
+477938	false		
+478140	false		
+478195	false		
+478252	false		
+478430	false		
+478449	false		
+478533	false		
+478542			
+478766	false		
+478944	false		
+479053	false		
+479071	false		
+479268	false		
+479446	false		
+479455	false		
+479567	false		
+479754	false		
+479802			
+479839	false		
+479914	false		
+479932	false		
+480059			
+480228	false		
+480246	false		
+480330	false		
+480433	false		
+480442	false		
+480563			
+480723			
+480750	false		
+480808	false		
+480817			
+480853	true		
+480862	false		
+481140	false		
+481159	false		
+481177	false		
+481225			
+481355	false		
+481430	false		
+481542			
+481551	false		
+481627	false		
+481748			
+481935	false		
+481944	false		
+482053	false		
+482156	false		
+482370	false		
+482446	false		
+482558	false		
+483032	false		
+483274	false		
+483537	false		
+483751			
+483845	false		
+484057	false		
+484123			
+484141	false		
+484253	false		
+484422	false		
+484459			
+484927			
+485054	false		
+485139	false		
+485214	false		
+485353	false		
+485456	false		
+485559	false		
+485652	false		
+485858	false		
+485867	false		
+486248	false		
+486659	false		
+486752			
+486837	false		
+487142	false		
+487236	false		
+487357	false		
+487843	false		
+488055	false		
+488167	false		
+488318	false		
+488420	false		
+488439			
+488653	false		
+488756	false		
+489016			
+489128	false		
+489155	false		
+489249	false		
+489548	false		
+489623	false		
+489641	false		
+489678			
+489735	false		
+489913	false		
+489940			
+490115	false		
+490179	false		
+490348	false		
+490441	false		
+490450	false		
+490535	false		
+490544	false		
+490843	false		
+490937	true		
+490955	false		
+491224			
+491251	false		
+491402	false		
+491569	false		
+491653			
+491738	false		
+491822	false		
+491934	false		
+492650	false		
+492810			
+493013	false		
+493077	false		
+493143	false		
+493152	false		
+493741	false		
+493750	false		
+493844	false		
+494168	false		
+494261	false		
+494458	false		
+494654	false		
+495044	false		
+495277			
+495352	false		
+495419	false		
+495530	false		
+495558	false		
+495857	false		
+496041	false		
+496171	false		
+496434	false		
+496573	false		
+496630	false		
+496845	false		
+496957	false		
+497020	false		
+497039	false		
+497404	false		
+497655	false		
+497851			
+497954	false		
+497972			
+498148	false		
+498317			
+498362			
+498456	false		
+498531			
+498625	false		
+498746	false		
+498942	false		
+499154	false		
+499239	false		
+499453	false		
+499501	false		
+499538	false		
+499613	false		
+499743	false		
+499752	true		
+499855	false		
+500050	false		
+500256	false		
+500407			
+500658	false		
+501039	false		
+501105	false		
+501123	false		
+501132			
+501440	false		
+501459			
+501655			
+501758	false		
+501767			
+501815	false		
+502111	false		
+502157	false		
+502353	false		
+502447	false		
+502559	false		
+502643	false		
+502652	false		
+502746	false		
+502849	false		
+502858	false		
+503453			
+503547	false		
+503640	false		
+504142	false		
+504311	false		
+504450	false		
+504535	false		
+504647	true		
+504713	false		
+505121	false		
+505242	false		
+505457			
+505550	false		
+505756	false		
+505831	false		
+505859	false		
+505916	false		
+506052	false		
+506230	false		
+506249	false		
+506838	false		
+506922	false		
+507068	false		
+507152			
+507255	false		
+507330			
+507349	false		
+507509	false		
+507666			
+507947	false		
+508270	false		
+508346	false		
+508355	false		
+508748	false		
+508841	false		
+508878	false		
+509138			
+509231	false		
+509334	false		
+509400	false		
+509642	false		
+509811			
+509857	false		
+509950	false		
+510330	false		
+510460	false		
+510554	false		
+510648	false		
+510871	false		
+510938			
+510947	false		
+511618			
+511832	false		
+512053	false		
+512839	false		
+513050	false		
+513256	false		
+513322	false		
+513340	false		
+513546	false		
+513854	false		
+513920	false		
+513957	false		
+514048	false		
+514057	false		
+514066	false		
+514132	false		
+514253	false		
+514356	false		
+514440	false		
+514655	false		
+514909	false		
+514936	false		
+515054	false		
+515250			
+515353	false		
+516042	false		
+516154	false		
+516305	false		
+516855	false		
+517049	false		
+517348	false		
+517357	false		
+517423	false		
+517441	false		
+517834	false		
+517900			
+518037	false		
+518073	false		
+518279	false		
+518354	false		
+518840			
+518952	false		
+519146	false		
+519267	false		
+519360			
+519445	false		
+519874	false		
+520003			
+520423			
+520777	false		
+521064	false		
+521158	false		
+521251	false		
+521550	false		
+521608	false		
+521756	false		
+521804	false		
+521934	false		
+521952	false		
+522034	false		
+522043	false		
+522146	false		
+522454	false		
+522548	false		
+522557			
+522605	false		
+522669	false		
+522753	false		
+522847	false		
+522856	false		
+522959	false		
+523152	false		
+523161	false		
+523648	false		
+523714	false		
+523808	false		
+523956	false		
+523974	false		
+524252	false		
+524579	false		
+524757	false		
+524766	false		
+524953	false		
+524971	false		
+525053	false		
+525156	false		
+525352	false		
+525446	false		
+525455	false		
+525549			
+525950	false		
+526135	false		
+526229			
+526452			
+526519	true		
+526706	false		
+526751	false		
+526854	false		
+527057	false		
+527459			
+527507	false		
+527600	false		
+527730	false		
+527749			
+527954	false		
+528102			
+528241	false		
+528568	false		
+528616	true		
+528746	false		
+528849	false		
+528858	false		
+528960	false		
+529172	false		
+529341			
+529453			
+529659	false		
+529846	false		
+529855			
+529958	false		
+530655	false		
+530703	false		
+530851	false		
+530954			
+531157	false		
+531250	false		
+531353	false		
+531634	false		
+532042	false		
+532453	false		
+532752	false		
+532864	false		
+533124	false		
+533227	false		
+533535	false		
+533740	false		
+533759			
+533852			
+533928			
+533937			
+533955	false		
+533964	false		
+534055	false		
+534158	false		
+534242	true		
+534345	false		
+534466			
+534653	false		
+534756	false		
+534859	false		
+534877			
+535007	false		
+535034	false		
+535258	false		
+535351	false		
+535463	false		
+535548	false		
+535641	false		
+535753	false		
+535838			
+535847	false		
+535856			
+535931	false		
+535940	false		
+536059			
+536219	false		
+536349	false		
+536358	false		
+536479	false		
+536527			
+536554	false		
+536853	false		
+537038	false		
+537065	false		
+537243	false		
+537355	false		
+537449	false		
+537458	false		
+537551	false		
+537560			
+538044	true		
+538222	false		
+538240	false		
+538352			
+538446			
+538642			
+538651	false		
+538754	false		
+538802	false		
+538950	false		
+539032	false		
+539340	false		
+539368	false		
+539452	false		
+539667			
+539872	false		
+539939	false		
+540056	false		
+540458			
+540542	false		
+540551	false		
+540739	true		
+540850	false		
+540926	false		
+541035	false		
+541101	false		
+541231	true		
+541437	false		
+541464	false		
+541642	false		
+541754	false		
+541857	false		
+541923			
+542153	false		
+542340	false		
+542443	false		
+542528	false		
+542537	false		
+542649	false		
+542667	false		
+542715	false		
+542854	false		
+543066	false		
+543253	false		
+543262	false		
+543338	false		
+543459	false		
+543637	false		
+543851	false		
+543945	false		
+544250			
+544335	false		
+544447	false		
+544652	false		
+544876	false		
+544951	false		
+545042	false		
+545154			
+545172	false		
+545604			
+545846	false		
+545855	false		
+546003			
+546320	false		
+546432	false		
+546535	false		
+546544	false		
+546647	false		
+547149	false		
+547251	false		
+547279	false		
+547550	false		
+547840			
+548052	false		
+548203	false		
+548267	false		
+548351			
+548641	false		
+548735	false		
+548753			
+548771	false		
+548829			
+548838	false		
+548856	false		
+549358	false		
+549545	false		
+549826	false		
+549862	false		
+549938	false		
+550327	false		
+550354	false		
+550448	false		
+550523			
+550653	false		
+550756	false		
+550952			
+551016	false		
+551315	false		
+551333			
+551454	false		
+551548	false		
+551557	false		
+551632	false		
+551904	false		
+552059	false		
+552161			
+552451			
+552545	false		
+552657	false		
+552732	false		
+552956	false		
+552974	false		
+553038	false		
+553766	false		
+553926	false		
+553944	false		
+554268	false		
+554343			
+554745	false		
+554754	false		
+554848	false		
+554857	false		
+554941	false		
+555005			
+555238	false		
+555256	false		
+555658	false		
+555724	false		
+555836	false		
+556011	false		
+556459	false		
+556815	false		
+556936	false		
+556945	false		
+557045	false		
+557317	false		
+557438	false		
+557456	false		
+557858			
+557933	false		
+558172			
+558257	false		
+558453			
+558462	false		
+558556	false		
+559058			
+559254	false		
+559553	false		
+559777			
+559852			
+560120	false		
+560214	false		
+560353	false		
+560438	false		
+560830	false		
+561145	false		
+561239	false		
+561257	false		
+561574	false		
+561659	false		
+561864	false		
+561958	false		
+562058	false		
+562553	false		
+562870			
+563233	false		
+563336	false		
+563457	false		
+563756	false		
+563774	false		
+563907	false		
+563934	false		
+564052	false		
+564155	false		
+564324	false		
+564463	false		
+564557	false		
+564605	false		
+564678	false		
+564771	false		
+564838			
+564856	false		
+565040			
+565143	false		
+565152	false		
+565536	false		
+565750	false		
+565844	false		
+565853	false		
+566056	false		
+566159	false		
+566243	false		
+566421	false		
+566458			
+566551	false		
+566953	false		
+567053	false		
+567231	false		
+567240	false		
+567736	false		
+567754	false		
+567857	false		
+567905			
+568126	false		
+568135	false		
+568144	false		
+568238	false		
+568359	false		
+568443	false		
+568470	false		
+568751	false		
+568854	false		
+568939	false		
+569253	false		
+569422	false		
+569459	false		
+569534	false		
+569730	false		
+569945			
+569972	false		
+570231	false		
+570558	false		
+570651	false		
+570745			
+570848	false		
+570857	false		
+571135	false		
+571153			
+571265	false		
+571443	false		
+571751	true		
+571920	false		
+571957	false		
+572338	false		
+572347	false		
+572374	false		
+572459	false		
+572655	false		
+572776	false		
+573036			
+573054			
+573335			
+573559	false		
+574051	false		
+574556	false		
+574949	false		
+574976			
+575133	false		
+575254			
+575348	false		
+575357	false		
+575375			
+575647	false		
+575656	false		
+575759	false		
+575834			
+575852	false		
+575955			
+576037	false		
+576130	false		
+576158	false		
+576354	false		
+576439	false		
+576541	false		
+576608	false		
+576644			
+576653			
+576710	false		
+576859			
+576952	false		
+577128	false		
+577137	false		
+577230	false		
+577472	false		
+577904	false		
+578116	false		
+578237	false		
+578255	false		
+578554	false		
+578741	true		
+578862	false		
+579140	true		
+579252	false		
+579319	false		
+579364	false		
+579636	false		
+580155	false		
+580164	false		
+580258	false		
+580548	false		
+580623			
+580726			
+580847	false		
+580959	false		
+581116	false		
+581161	false		
+581237	false		
+581358	false		
+582234	false		
+582654	false		
+582766			
+582953	false		
+583138	false		
+583268	false		
+583352	false		
+583745	false		
+583754	false		
+583905	false		
+583932	false		
+584377	false		
+584724	false		
+584920	false		
+585235	false		
+585543	false		
+585655	false		
+585749			
+586027	false		
+586175			
+586205			
+586241	false		
+586335	false		
+586353	false		
+586858	false		
+586960	false		
+587172	false		
+587275	false		
+587350	false		
+587574	false		
+587677	false		
+587743	false		
+587752	false		
+587800	false		
+588058	false		
+588245	false		
+588348	false		
+588441	false		
+588517			
+588553	false		
+589037	false		
+589158	false		
+589439	false		
+589523			
+589943	false		
+590109	false		
+590145	false		
+590220	false		
+590248	false		
+590640	false		
+590855	false		
+590949	false		
+591209	false		
+591320	false		
+591357	false		
+591366			
+591740	false		
+591825	false		
+591834	false		
+591852	false		
+591937	false		
+592439	false		
+592448	false		
+592550	false		
+592644	false		
+592822			
+592831	false		
+592859	false		
+593007	false		
+593052			
+593249			
+593333	false		
+593351	false		
+593753	false		
+593771	false		
+593838	false		
+593865	false		
+593940	false		
+593977	false		
+594134	false		
+594433			
+594451	false		
+594714	false		
+594853	false		
+594938	false		
+594947			
+595038	false		
+595337	false		
+595430			
+595449	true		
+595560	false		
+595618	false		
+595869	false		
+595944			
+595953	false		
+596026	false		
+596053	false		
+596062			
+596156	false		
+596361	false		
+596400	false		
+596455	false		
+596642	false		
+596848	false		
+596978	false		
+597041	false		
+597162	false		
+597256	false		
+597313	false		
+597452	false		
+597546	false		
+597555			
+597658	false		
+597751	false		
+597957	false		
+598002	false		
+598048	false		
+598132	false		
+598150	false		
+598338	false		
+598534			
+598543	false		
+598646	false		
+598954			
+599643			
+599755	false		
+599764	false		
+599951	false		
+600129			
+600174	false		
+600222	false		
+600419	false		
+600651	false		
+601032	false		
+601041	false		
+601050			
+601153	false		
+601416	false		
+601434			
+601443			
+601564	false		
+601658	false		
+601733	false		
+602048	false		
+602150	false		
+602235	false		
+602356	false		
+602543	false		
+602842	false		
+602851	false		
+603232	false		
+603540	false		
+603559	false		
+603755	false		
+603951	false		
+604024	false		
+604033	false		
+604378	false		
+604453	false		
+604547	false		
+604556	false		
+604640	false		
+604734	false		
+605058	false		
+605133	false		
+605610	false		
+605638	false		
+605656			
+605852	false		
+606046	false		
+606073			
+606130	false		
+606309			
+606569	false		
+606653			
+607146	false		
+607333	false		
+607511	false		
+607931			
+607959	false		
+608358	false		
+608367	false		
+608451	false		
+608844	false		
+608938	false		
+609010	false		
+609243			
+609373	false		
+609467	false		
+609609	false		
+609618	false		
+609645	false		
+609832	false		
+610052	false		
+610128			
+610155			
+610164			
+610539	false		
+610557	false		
+610623	false		
+610771	false		
+610847	false		
+610913	false		
+611031	false		
+611246	false		
+611451			
+611639	false		
+611732	false		
+612159			
+612346	false		
+612364			
+612551	false		
+612618	false		
+612757	false		
+613008	false		
+613156	false		
+613213	false		
+613222			
+613231			
+613307	false		
+613334	false		
+613343	false		
+613400			
+613464	false		
+613558			
+613754	false		
+613839	false		
+613950	false		
+614256	false		
+614313	false		
+614340	false		
+614368	false		
+614751	false		
+614948	false		
+615075	false		
+615217	false		
+615253	false		
+615329	false		
+615459	false		
+615851	false		
+615954	true		
+616036	false		
+616148	false		
+616410	false		
+616540	false		
+616755			
+616849	false		
+617024	false		
+617051	false		
+617145	false		
+617275			
+617341	false		
+617538	false		
+617734	false		
+617743	false		
+618405	false		
+618544	false		
+618647	false		
+618656			
+618740	false		
+618807			
+619327	false		
+619457	false		
+619701	false		
+619859	false		
+620015	false		
+620051	true		
+620211			
+620305			
+620453	false		
+620752	false		
+620930	false		
+621151	false		
+621245	false		
+621357	false		
+621375	false		
+621432	false		
+621441	false		
+621674			
+621852	false		
+622037	false		
+622439	false		
+622653	false		
+622756	false		
+622774	false		
+622831	false		
+623052	false		
+623258			
+623306			
+623445	false		
+623454			
+623548	false		
+623922			
+624152	false		
+624246	false		
+624563	false		
+624648			
+624826	true		
+624956	false		
+625056	false		
+625065	false		
+625140	false		
+625159			
+625355	false		
+625449			
+625654	false		
+625757	false		
+625850	false		
+625953	false		
+626101	false		
+626352			
+626754	false		
+626941	false		
+627023	false		
+627108	false		
+627135	false		
+627256	false		
+627377	false		
+627407	false		
+627425	false		
+627555			
+627658	false		
+627854	false		
+627863			
+628039	false		
+628048	false		
+628123	false		
+628178	false		
+628235			
+628356	false		
+628552	false		
+628730	false		
+628758	false		
+629148	false		
+629353	false		
+629522	false		
+629746	false		
+629849	false		
+630041	false		
+630153	false		
+630340	false		
+630555	false		
+630658			
+630948	false		
+631039	false		
+631150	false		
+631244	false		
+631422	false		
+632139	false		
+632353	false		
+632410	false		
+632607			
+632625	false		
+632652	false		
+632755	false		
+632858			
+633154	false		
+633341	false		
+633501	false		
+633640	false		
+633659	false		
+633837	false		
+634245	false		
+634272	false		
+634348	false		
+634357	false		
+634544	false		
+634656	false		
+634731	false		
+634946	false		
+634955	false		
+635176	false		
+635457			
+635840	false		
+635859			
+635907	false		
+636043	false		
+636342	false		
+636575	false		
+636753	false		
+636771	false		
+637246			
+637451	false		
+637554	false		
+637750	false		
+638047	false		
+638131	false		
+638346			
+638355	false		
+638850	false		
+639053			
+639343	false		
+639549	false		
+639567	false		
+639633	false		
+639651			
+639857	false		
+639950	false		
+640143	false		
+640152			
+640170			
+640246	false		
+640442	false		
+640451	false		
+640554	false		
+640844	false		
+640956	true		
+641047	false		
+641252	false		
+641355	false		
+641364			
+641449			
+641515	false		
+641551	false		
+641579	false		
+641654	false		
+642259	false		
+642370	false		
+642437	false		
+642549	false		
+642839	false		
+642857	false		
+642866	false		
+642969	false		
+643340	false		
+643368	false		
+643452	false		
+643546	false		
+643658	false		
+644057			
+644132	false		
+644141	false		
+644178	false		
+644440	false		
+644459	false		
+644600	false		
+644646			
+644776	false		
+644842	false		
+644936	false		
+644963	false		
+645054	false		
+645157	false		
+645317	false		
+645465	false		
+645540	false		
+645625	false		
+645661	false		
+645942	false		
+646042	false		
+646145	false		
+646444	false		
+646453	false		
+646471	false		
+646556	false		
+646743	false		
+646837	false		
+646958	false		
+647218	false		
+647245	false		
+647414	false		
+647432	false		
+647759	false		
+647919	false		
+647955	false		
+648055	false		
+648130	false		
+648242	false		
+648251	false		
+648345			
+648448	false		
+648550			
+648952	false		
+649342	false		
+649351	false		
+649445	false		
+649548			
+649632	false		
+649650	false		
+649874	false		
+650526	false		
+650647			
+650834	false		
+650843	false		
+650955	false		
+651037	false		
+651103	false		
+651121	false		
+651149	false		
+651158	false		
+651354	false		
+651411			
+651448	false		
+651457	false		
+651541	false		
+651756	false		
+651859	false		
+651952	false		
+652043	false		
+652164	false		
+652351	false		
+652445	false		
+652726	false		
+652753	false		
+652874	false		
+652959	false		
+653134	false		
+653349	false		
+653433	false		
+653611	false		
+653648	false		
+653723	false		
+653947	false		
+654047	false		
+654252			
+654300	false		
+654458	false		
+654542	false		
+654757	false		
+655044	false		
+655156	false		
+655530	false		
+655576	false		
+655651	false		
+655660	false		
+655839	false		
+655857	false		
+656032			
+656153	false		
+656247	false		
+656359			
+656470	false		
+656555	false		
+656649	false		
+656658	false		
+656733	false		
+656742	false		
+657178	false		
+657365	false		
+657459	false		
+657758	false		
+657767	false		
+657815			
+657954	false		
+658036			
+658139			
+658157			
+658456	false		
+658540	false		
+658559	false		
+658906	false		
+658924	false		
+659042	false		
+659257	false		
+659341	false		
+659453	false		
+659538	false		
+659556	false		
+659622	false		
+659640	false		
+659734	false		
+659855	false		
+660066	false		
+660253	false		
+660271	false		
+660570	false		
+660655	false		
+660842	false		
+660927	false		
+661157	false		
+661223	false		
+661250	false		
+661308	false		
+661858			
+662350	false		
+662369			
+662453			
+662556	false		
+662640			
+662659	false		
+662770			
+662949			
+663058	false		
+663245	false		
+663450	false		
+663638	false		
+663647	false		
+663656	false		
+663722	false		
+663768			
+663834	false		
+663955	false		
+664206	false		
+664336	false		
+664457	false		
+664644	false		
+664653	false		
+664756	false		
+664831	false		
+665052	false		
+665146			
+665258	false		
+665865	false		
+665931	false		
+666031	false		
+666059	false		
+666358	false		
+666554	false		
+666657			
+666750	false		
+666844	false		
+666947	false		
+667029	false		
+667038	false		
+667252	false		
+667346	true		
+667355	false		
+667458	false		
+667524	false		
+667551			
+667757	false		
+667832	false		
+667850			
+667869	false		
+668053	false		
+668147	false		
+668352	false		
+668455	false		
+668745			
+668848			
+669340	false		
+669359	false		
+669443	false		
+669555	false		
+669751			
+670056	false		
+670159	false		
+670421			
+670430	false		
+670467	false		
+670551	false		
+670560	false		
+670645			
+670654	false		
+670748			
+670850	false		
+671053	false		
+671147	false		
+671334	false		
+671464	false		
+671558			
+671576			
+671857	false		
+672041	false		
+672238	false		
+672247	false		
+672359			
+672537			
+672612	false		
+672751	false		
+672818	false		
+672836	false		
+672957	false		
+673132			
+673178	false		
+673244			
+673431	true		
+673440			
+673851	false		
+673909	false		
+673963	false		
+674344	false		
+674513	false		
+674737	false		
+674849			
+675042	false		
+675051	false		
+675079	false		
+675239			
+675248			
+675332	false		
+675341	false		
+675547	false		
+675659	false		
+675855	false		
+675949	false		
+675958	false		
+676021	false		
+676049			
+676151			
+676160	false		
+676245	false		
+676432	false		
+676656	false		
+676777	false		
+676852	false		
+676955	false		
+676964	false		
+677354	false		
+677448	false		
+677644	false		
+677756	false		
+678043	false		
+678052	false		
+678070			
+678137			
+678230	false		
+678258	false		
+678454	false		
+678472	false		
+678557	false		
+678717	false		
+678744	false		
+678865	false		
+678931	false		
+679125	false		
+679246	false		
+679451	false		
+679545	false		
+679648	false		
+679826	false		
+680055	false		
+680130	false		
+680149	false		
+680354	false		
+680457	false		
+680466	false		
+680617	false		
+680747	false		
+680813	false		
+680952	false		
+681043	false		
+681249	false		
+681744	false		
+682143	false		
+682451	false		
+682545			
+682563	false		
+682611	false		
+682648	false		
+682732	false		
+683001			
+683252	false		
+683449	false		
+683814	false		
+684325	false		
+684455	false		
+685023	false		
+685050	false		
+685368	false		
+685407	false		
+685555	false		
+685649	false		
+685658			
+685733			
+686440	false		
+686459	false		
+686655	false		
+686758	false		
+686963	false		
+687009			
+687054	true		
+687250	false		
+687269	false		
+687371	false		
+687474	false		
+687830	false		
+687858	false		
+687951	false		
+688079	false		
+688257	false		
+688275			
+688453	false		
+688556	false		
+689209	false		
+689302			
+689357			
+689665	false		
+689740	false		
+689759	false		
+689937	false		
+690045	false		
+690773	false		
+690858	false		
+691042	false		
+691079	false		
+691145	false		
+691350	false		
+691556	false		
+691743	false		
+691958	false		
+692450	false		
+692478			
+692704			
+692946	false		
+693224	false		
+693345	false		
+693662	false		
+693952	false		
+694146			
+694258	false		
+694463			
+694678	false		
+694771	false		
+694847	false		
+694904			
+695134	false		
+695228	false		
+695349	false		
+695545	false		
+695648	false		
+695705	false		
+695732	false		
+695750			
+695947	false		
+696047	false		
+696056	false		
+696168			
+696430	false		
+696551			
+696645	false		
+697035	true		
+697110	false		
+697147	false		
+697156	false		
+697231	false		
+697455	false		
+697633	false		
+697754	false		
+697763	false		
+697848			
+697857	false		
+697950	false		
+697978	false		
+698144	false		
+698229	false		
+698322	false		
+698546			
+698649	false		
+698715	false		
+698957	false		
+699105	false		
+699132	false		
+699253			
+699534	false		
+699552	false		
+700140	false		
+700252	false		
+700337	false		
+700430	false		
+700458	false		
+700739	false		
+701062			
+701213	false		
+701222	false		
+701240	false		
+701259			
+701651	false		
+701736	false		
+701745	false		
+701839			
+701857	false		
+701950	false		
+702050	false		
+702117	false		
+702229	false		
+702359	false		
+702612			
+702658	false		
+702751			
+702836	false		
+702854			
+702911	false		
+702966	false		
+703039	false		
+703141	false		
+703310	false		
+703347			
+703440	false		
+703552	false		
+703767	false		
+704326			
+704447	false		
+704559			
+704737	false		
+704755	false		
+704906	false		
+704942			
+705444	false		
+705453			
+705556	false		
+705565	false		
+705958	false		
+706030	false		
+706058	false		
+706067	false		
+706151	false		
+706236	false		
+706254	false		
+706366	false		
+706450	false		
+706656	false		
+707055	false		
+707354			
+707840	false		
+708052	false		
+708137	false		
+708164	false		
+708333	false		
+708379	false		
+708454	false		
+708753	false		
+709031	false		
+709125	false		
+709143	false		
+709358	false		
+709451	false		
+709554	false		
+709602	false		
+709639	false		
+709648	false		
+709675	false		
+709956	false		
+710176	false		
+710251			
+710859	false		
+711472	true		
+711520	false		
+711548	false		
+711753	false		
+711801			
+711865	false		
+711959	false		
+712004	false		
+712031	false		
+712059	false		
+712648	false		
+712750	false		
+712956			
+713038			
+713047	false		
+713140	false		
+713252	false		
+713476	false		
+713926	false		
+714165	false		
+714361	false		
+714437	false		
+714558	false		
+714718	false		
+714811	false		
+714839	false		
+714978	false		
+715032	false		
+715050	false		
+715144	false		
+715340	false		
+715630	false		
+715751	false		
+715809			
+716413	false		
+716440			
+716459	false		
+716552			
+716655	false		
+716833	false		
+716851	false		
+716954	false		
+717232	false		
+717241	false		
+717513	false		
+717737	false		
+717746	false		
+717867	false		
+717924	false		
+718051	false		
+718079	false		
+718145	false		
+718275			
+718538	false		
+718547			
+718556			
+718930	false		
+719030			
+719058			
+719441	false		
+719610	false		
+719656	false		
+719955			
+719964	false		
+720045	false		
+720157	false		
+720166	false		
+720344	false		
+720465			
+720746	false		
+720858	false		
+720951	false		
+721350	false		
+721659	false		
+721752	false		
+721800			
+721949	false		
+722227	false		
+722432	false		
+722450	false		
+722544			
+722816	false		
+723037	false		
+723112	false		
+723158			
+723309	false		
+723354	false		
+723550	false		
+723653	false		
+723710	false		
+723747	false		
+723756	false		
+723822	false		
+723868	false		
+723943	false		
+724052	false		
+724230	false		
+724351	false		
+724548	false		
+724557	false		
+724744			
+724753	false		
+724847	false		
+724940			
+725077	false		
+725376	false		
+725611			
+725732	false		
+725741	false		
+725826	false		
+725844	false		
+725853			
+726234	false		
+726346	false		
+726355	false		
+726458	false		
+726467	false		
+726757	false		
+726953	false		
+727156	false		
+727343			
+727455	false		
+727530	false		
+727950	false		
+728340	false		
+728443	false		
+728452			
+728733	false		
+728742	false		
+728779			
+728854	false		
+728948	false		
+728957			
+729011	false		
+729057	false		
+729132	false		
+729310			
+729440	false		
+729459	false		
+729637	false		
+729842	false		
+729945	false		
+730213	false		
+730268			
+730446			
+730745	false		
+730754			
+730857	false		
+731050	false		
+731247			
+731313	false		
+731443	false		
+731957	false		
+732253	false		
+732365	false		
+732459	false		
+732570	false		
+732637	false		
+732730	false		
+732758	false		
+732918	false		
+732945	false		
+732954	false		
+733045	false		
+733054	false		
+733447	false		
+733531	false		
+733540	false		
+733559	false		
+733661			
+733755	false		
+733951	false		
+734051			
+734248	false		
+734350	false		
+734538	false		
+734565	false		
+734613	false		
+734855	false		
+734949			
+735049	false		
+735058	false		
+735067	false		
+735142			
+735357	false		
+735414	false		
+735441			
+735656	false		
+735768	false		
+735852	false		
+736158	false		
+736206			
+736309	false		
+736448	false		
+736550	false		
+736662	false		
+736877	false		
+737436			
+737548	false		
+737632	false		
+737753	false		
+737959	false		
+738013	false		
+738040			
+738143	false		
+738255	false		
+738303			
+738367	false		
+738545	false		
+738611	false		
+738657	false		
+738769	false		
+739159	false		
+739346	false		
+739355	false		
+739430	false		
+739560	false		
+739832	false		
+739850	false		
+740043	false		
+740249			
+740258	true		
+740931	false		
+741068			
+741152	false		
+741330	false		
+741358	false		
+741545	false		
+741639	false		
+741648	false		
+741657	false		
+741844			
+741956	false		
+742056	false		
+742225	false		
+742355	false		
+742542	false		
+742560	false		
+742636	false		
+742944	false		
+743053	false		
+743455			
+743651			
+743679	false		
+743857	false		
+743950	false		
+744144	false		
+744238	false		
+744256	false		
+744854	false		
+745150	false		
+745347	false		
+745570			
+745646	false		
+745954			
+746054			
+746157	false		
+746223	false		
+746344	false		
+746429	false		
+746513	false		
+746755	false		
+746942	false		
+747051	false		
+747257	false		
+747435	false		
+747743	false		
+747846	false		
+748254	false		
+748357	false		
+748441	false		
+748647	false		
+748964	false		
+749046	false		
+749121			
+749242	false		
+749550			
+749569	false		
+749635	false		
+749756	false		
+749840	false		
+749943	false		
+749952	false		
+750051	false		
+750127	false		
+750154	false		
+750239	false		
+750305	false		
+750341	false		
+750444	false		
+750501	false		
+750846	false		
+750864	false		
+751151	false		
+751254	false		
+751302	false		
+751656	false		
+751740	false		
+751759	false		
+751852	false		
+751955			
+752644			
+752653	false		
+752831	false		
+752970	false		
+753052			
+753324	false		
+753351	false		
+753548	false		
+753641	false		
+753856	false		
+754031	false		
+754068	false		
+754246			
+754358	false		
+754433	false		
+754536	false		
+754657	false		
+754826	false		
+754853	false		
+754929			
+755047			
+755056	false		
+755252	false		
+755328			
+755346	false		
+755421	false		
+755458	false		
+755551	false		
+755609	false		
+755850	false		
+756316			
+756343			
+756848	false		
+756950			
+757377	false		
+757452	false		
+757612	false		
+757779			
+758440	false		
+758703	false		
+758721	false		
+758842	false		
+758851	false		
+759045	false		
+759250	false		
+759540	false		
+759625	false		
+760041			
+760108	true		
+760210	false		
+760331	false		
+760340	false		
+760434	false		
+760555	false		
+760649	false		
+760742	false		
+760854	false		
+760939	false		
+760957	false		
+761244	false		
+761347	false		
+761459	false		
+761543	false		
+761833			
+761851	false		
+761954	false		
+762045	false		
+762054	false		
+762353	false		
+762429	false		
+762447	false		
+762607	false		
+762625	false		
+762661	false		
+763211	false		
+763556	false		
+763752	false		
+763930			
+763958	false		
+764030	false		
+764058	false		
+764067	false		
+764142	false		
+764151	false		
+764414	false		
+764441			
+764647	false		
+764816			
+764843			
+765019	false		
+765046	false		
+765130	false		
+765318	false		
+765354	false		
+765505	false		
+765662	false		
+765756	false		
+766052	false		
+766164			
+766258	false		
+766735	false		
+767004	false		
+767040			
+767059	false		
+767152	false		
+767161	false		
+767246			
+767255	false		
+767554	false		
+767611	false		
+767705	false		
+767732	false		
+767769			
+767817	false		
+767947	true		
+768074	false		
+768252	false		
+768458	false		
+768953	false		
+769156	false		
+769334	false		
+769455	false		
+769857	false		
+770068	false		
+770330	false		
+770367			
+770433	false		
+770451	false		
+770545	false		
+770639	false		
+770657	true		
+770853	false		
+771047	false		
+771140	false		
+771159	false		
+771346	false		
+771458			
+771551	false		
+771609	false		
+771636	false		
+771663	false		
+771748			
+771832	false		
+771841	false		
+772008			
+772240	false		
+772446			
+772558	false		
+772745	false		
+772754	false		
+773032	false		
+773126			
+773247	false		
+773359	false		
+773443			
+773546	false		
+773742	false		
+773751	false		
+774105	false		
+774132	false		
+774235	false		
+774253	false		
+774262	false		
+774347			
+774655	false		
+774730	false		
+774833			
+774851	false		
+774954	false		
+775054	false		
+775214	false		
+775241	false		
+775456	false		
+775540	false		
+775755			
+776060			
+776248	false		
+776275	false		
+776350	false		
+776369	false		
+776547			
+776659	false		
+776734	false		
+776752	false		
+777012	false		
+777160	false		
+777254	false		
+777366	false		
+777441	false		
+777553	false		
+777870	false		
+777964	false		
+778466	false		
+778532	false		
+778738			
+779016	false		
+779351			
+779360			
+779539			
+779641	false		
+779650	false		
+779968	false		
+780049	false		
+780218	false		
+780263	false		
+780562	false		
+780722	false		
+780955			
+781028	false		
+781130	false		
+781158	false		
+781466			
+782016	false		
+782306			
+782351	false		
+782548	false		
+782650	false		
+782904			
+782940	false		
+783059	false		
+783161	false		
+783246			
+783349	false		
+783376	true		
+783648	false		
+783844			
+783910	false		
+783956	false		
+783965	false		
+784159	false		
+784430	false		
+784944	false		
+785062	false		
+785147	false		
+785259	false		
+785325	false		
+785718	false		
+785857	false		
+785923			
+785932	false		
+785941	false		
+785950	false		
+786041	false		
+786210	false		
+786256	false		
+786340	false		
+786443	false		
+786555	false		
+786612			
+786733	false		
+786742	false		
+786948	false		
+787141	false		
+787150	false		
+787253	false		
+787440	false		
+787459	false		
+787842	false		
+787860	false		
+788559	false		
+788652	false		
+788924	false		
+789051	false		
+789136	false		
+789257	false		
+790150	false		
+790235	false		
+790271	false		
+790534	false		
+790543	false		
+790673	false		
+790703	false		
+790721	false		
+790851			
+790918	false		
+791072	false		
+791205	false		
+791353			
+791474			
+791513	false		
+791531	false		
+791746	false		
+791821	false		
+791942			
+792248	false		
+792453	false		
+792640			
+792659	false		
+792716			
+792743	false		
+792958	false		
+793151			
+793245	false		
+793302	false		
+793571			
+794073			
+794149	false		
+794251	true		
+794336	false		
+794345	false		
+794541	false		
+794608	false		
+794653	false		
+794747	false		
+795249	false		
+795454	false		
+795548	false		
+795650	false		
+795735	false		
+795959	false		
+795968	false		
+796125	false		
+796152	false		
+796415	false		
+796451	false		
+796657	false		
+796769	false		
+796965	false		
+797140	false		
+797159	false		
+797234			
+797319	false		
+797467	false		
+797775	false		
+797832	false		
+798156			
+798512	false		
+798857	false		
+799256	false		
+799359	false		
+799612	false		
+799751	false		
+799854	false		
+799939	false		
+799948	false		
+800134	false		
+800442	false		
+800479			
+800657			
+800750			
+800853			
+801047	false		
+801056	false		
+801159	false		
+801654	false		
+802110			
+802129	false		
+802174			
+802231	false		
+802352			
+802736	false		
+802839	false		
+802848	false		
+802866	false		
+803078	false		
+803144			
+803162	false		
+803256	false		
+803265	false		
+803368	false		
+803452	false		
+803461	false		
+803649	false		
+803658	false		
+803957	false		
+803966	false		
+804150	false		
+804208			
+804338	false		
+804422	false		
+804758	false		
+804815	false		
+804860	false		
+804963			
+805045	false		
+805250	false		
+805335			
+805447			
+805670	false		
+805755	false		
+805858	false		
+805876			
+805951	false		
+806042	false		
+806154	false		
+806220	false		
+806770	false		
+806846	false		
+806958			
+807067	false		
+807348	false		
+807432			
+807656	false		
+807665	false		
+807946	false		
+807955			
+808037	false		
+808167	false		
+808176	false		
+808260	false		
+808345			
+808354	false		
+808448	false		
+808541	false		
+808653	false		
+808952	false		
+809034	false		
+809324	false		
+809379	false		
+809539	false		
+809650	false		
+809744	false		
+809856	false		
+809940	false		
+810142	false		
+810151	false		
+810339	false		
+810450			
+810544	false		
+810553	false		
+810834	false		
+810900	false		
+810919			
+811046	false		
+811279			
+811457	false		
+811541			
+811550	false		
+811747	false		
+811756	false		
+812155	false		
+812164	false		
+812436	false		
+812557	false		
+812614	false		
+813059	false		
+813732			
+813844	false		
+813853			
+813947	false		
+814216	false		
+814355	false		
+814430	false		
+814458	true		
+814551	false		
+814711	false		
+814748	false		
+814953	false		
+815053	false		
+815147	false		
+815156	false		
+815213	false		
+815277	false		
+815754	false		
+815950	false		
+816144	false		
+816153	false		
+816210	false		
+816256	false		
+816304	false		
+816452	false		
+816603	false		
+816649			
+816751	false		
+816760	false		
+816948	false		
+817356	false		
+817440	false		
+817477	false		
+817824	false		
+817833	false		
+818353	false		
+818401	false		
+818540			
+818559	false		
+818625	false		
+818652	false		
+819154	false		
+819172	false		
+819453	false		
+819556			
+819855	false		
+820048	false		
+820178	false		
+820301	false		
+820310	false		
+820459	false		
+820655	false		
+820842	false		
+820945	false		
+821036	false		
+821120	false		
+821157	false		
+821278			
+821456	false		
+821531	false		
+821559	true		
+821643	false		
+821652	false		
+821858			
+821906	false		
+821951	false		
+822042	false		
+822051			
+822145	false		
+822154			
+822257	false		
+822408			
+822529	false		
+822556	false		
+822631	false		
+822846	false		
+822873	false		
+823133	false		
+823142	false		
+823450			
+823553	false		
+823638	false		
+823656	false		
+824000	false		
+824055	false		
+824242	false		
+824550			
+824653	false		
+824738	false		
+825146	false		
+825454	false		
+825548	false		
+825735	false		
+825753	false		
+825847	false		
+825940	false		
+825977	false		
+826255	false		
+826451	false		
+826648	false		
+826956	false		
+827346	false		
+827355	false		
+827458	false		
+827560	false		
+827953			
+828053	false		
+828110	false		
+828530	false		
+828651	false		
+828745	false		
+829032	false		
+829041			
+829050	false		
+829256	false		
+829452	false		
+830113	false		
+830168	false		
+830252	false		
+830355	false		
+830458	false		
+830542	false		
+830645	false		
+830748	false		
+831008	false		
+831044	false		
+831053	false		
+831352	false		
+831549	false		
+831576	false		
+831642			
+831727	false		
+831857	false		
+831941			
+832377	false		
+832528	false		
+832546	false		
+832920	true		
+833271	false		
+833404	false		
+833646	false		
+833749	false		
+833758	false		
+833851	false		
+834045	false		
+834269	false		
+834353	false		
+834531	false		
+834661	false		
+834755			
+834849	false		
+834979	false		
+835257	false		
+835323	false		
+835378	false		
+835444	false		
+835613			
+835659	false		
+835743	false		
+835846	false		
+835958			
+836067	true		
+836142	false		
+836151	false		
+836544	false		
+836656	false		
+836843	false		
+836852			
+836946	false		
+837000	false		
+837037	false		
+837046	false		
+837149	false		
+837158			
+837260	false		
+837354	false		
+837448	false		
+837541	false		
+837550	false		
+837653	false		
+837840	false		
+837952	false		
+838155	false		
+838221	false		
+838427	false		
+838632	false		
+839068	false		
+839152	false		
+839246			
+839255	false		
+839657			
+839817	false		
+840019			
+840251	false		
+840354	false		
+840363	false		
+840532	false		
+840747	false		
+840859	true		
+841052	false		
+841258	false		
+841436			
+841472	false		
+841539	false		
+841753	false		
+841838	false		
+841865			
+842004	false		
+842031	false		
+842116	false		
+842358	false		
+842367	false		
+842376	false		
+842460			
+842853	false		
+843159	false		
+843270	false		
+843542	false		
+843711	false		
+843935			
+843953	false		
+844053			
+844138	false		
+844165			
+844343			
+844455	false		
+844558			
+844567	false		
+844820	false		
+845108	false		
+845247			
+845443			
+845452	false		
+845751	false		
+846132	false		
+846262	false		
+846356	false		
+846374	false		
+846619	false		
+846945	false		
+847157			
+847447	false		
+847540	false		
+847643	false		
+848248	false		
+848257	false		
+848453	false		
+848752			
+849151			
+849254	false		
+849348	false		
+849357			
+849366	false		
+849432	false		
+849450	false		
+849553			
+849647	false		
+849656	false		
+849665	false		
+849777	false		
+849834	false		
+850036	false		
+850054	false		
+850456	false		
+850616	false		
+851024			
+851060			
+851239			
+851257	false		
+851556	false		
+851631	false		
+851958	false		
+852133			
+852142	false		
+852218	false		
+852254	false		
+852263			
+852320	false		
+852357	false		
+852544			
+852704	false		
+852713			
+852973	false		
+853112	false		
+853158	false		
+853251	false		
+853372	false		
+853644	false		
+853747	false		
+853804	false		
+853934	false		
+853952			
+853970	false		
+854052	false		
+854173	false		
+854258	false		
+854351	false		
+854418	false		
+854445	false		
+854454	false		
+854520	false		
+854548	false		
+854753	false		
+854847	false		
+855134	false		
+855143	false		
+855264	false		
+855303	false		
+855563	false		
+855648	false		
+855741	false		
+855778	false		
+855844	false		
+855956	false		
+856140	false		
+856159	false		
+856243			
+856270	false		
+856337	false		
+856346	false		
+856458	false		
+856542	false		
+856748	false		
+856869	false		
+856944	false		
+856971			
+857017	false		
+857147	false		
+857259	false		
+857455	false		
+857576			
+857745	false		
+857811	false		
+857941	false		
+857950	false		
+858126	false		
+858153	false		
+858210	false		
+858443	false		
+858452			
+858528	false		
+858649	false		
+858818	false		
+858854			
+858966			
+859002			
+859141	false		
+859150	false		
+859543	false		
+859552	false		
+859655	false		
+859712	false		
+859851	false		
+859945	false		
+860053	true		
+860147	false		
+860156	false		
+860231	false		
+860259	false		
+860334	false		
+860352	false		
+861153	false		
+861434	false		
+861658	false		
+861742	false		
+861854	false		
+862057	false		
+862141	false		
+862552			
+862824			
+862851	false		
+862945	false		
+863353	false		
+863362	false		
+863607	false		
+863652	false		
+863746	false		
+863803	false		
+863951	false		
+864127	false		
+864248	false		
+864341	false		
+864556	false		
+864752	false		
+864846	false		
+864855	false		
+864958			
+865058	false		
+865142	false		
+865151	false		
+865357	false		
+865450	false		
+865544	false		
+865674			
+865759	false		
+865852	false		
+866000			
+866055	false		
+866121	false		
+866242	false		
+866251	false		
+866279	false		
+866859	false		
+866943	false		
+867258	false		
+867454	false		
+867632	false		
+867650	false		
+867856	false		
+867940	false		
+868059			
+868068	false		
+868264	false		
+868376	false		
+868442	false		
+868817	false		
+868844	false		
+868956	false		
+869346			
+869524	false		
+869551	false		
+869663	false		
+869953	false		
+869971	false		
+870258			
+870472	false		
+870539			
+870650	false		
+870678	false		
+870753	false		
+870847	false		
+870856	false		
+870913	false		
+870968	false		
+871358	true		
+871460	false		
+871648			
+871769	false		
+871853			
+871956	true		
+872047	false		
+872159	false		
+872421	false		
+872551	false		
+872711	false		
+872953	false		
+873035	false		
+873138	false		
+873259	false		
+873334	false		
+873679	false		
+873914	false		
+873950	false		
+874041	false		
+874050	false		
+874452	false		
+874649			
+874845	true		
+875048	false		
+875057	false		
+875132	false		
+875253	false		
+875619	false		
+875655	false		
+875758	false		
+875909	false		
+875918			
+875936	false		
+875954	false		
+876157	false		
+876465	false		
+876634	false		
+876700	false		
+877015	false		
+877042	false		
+877154	false		
+877239			
+877350	false		
+877369	false		
+877556	false		
+877752	false		
+877958	false		
+877967	false		
+878142	false		
+878254	false		
+878834	false		
+879000			
+879336	false		
+879439	false		
+879457			
+879532			
+879550	false		
+879644	false		
+879747	false		
+880051	false		
+880332	false		
+880556	false		
+880659	false		
+880855			
+881012	false		
+881133	false		
+881254	false		
+881339	false		
+881441	false		
+881478	false		
+881544	false		
+881656	false		
+881777	false		
+881852			
+881900	false		
+882130	false		
+882242	false		
+882354	false		
+882541	false		
+882644	false		
+882671	false		
+882701	false		
+882952			
+883137	false		
+883351	false		
+883753	false		
+883810	false		
+883874			
+883959	false		
+884059	false		
+884303	false		
+884358	false		
+884442	false		
+884554	false		
+884639	false		
+884648			
+884657	false		
+885001			
+885225	false		
+885252	false		
+885337	false		
+885430	false		
+885458	false		
+885515			
+885579	false		
+885869			
+886044	false		
+886053	false		
+886204			
+886343			
+886624	false		
+887247	false		
+887340	false		
+887555	false		
+887827	false		
+887854	false		
+888002			
+888141	false		
+888253	false		
+888552	false		
+888758			
+888833	false		
+888954	false		
+889036	false		
+889456	false		
+889652			
+889755	false		
+890050	false		
+890603	false		
+890649	false		
+890742			
+890957	false		
+891226	false		
+891253	false		
+891721	false		
+892205	false		
+892223	false		
+892250			
+892353	false		
+892755	false		
+892849	false		
+893248	false		
+893538	false		
+893640	false		
+893800			
+893855	false		
+894058	false		
+894151	false		
+894245	false		
+894348	false		
+894544	false		
+894553	false		
+894834			
+894946	false		
+895055	false		
+895158	false		
+895448	false		
+895541	false		
+895550	false		
+895653	false		
+895710	false		
+895822	false		
+895831	false		
+895952	false		
+896155	false		
+896258			
+896427	false		
+896445	false		
+896566	false		
+896605	false		
+896641	false		
+896856	false		
+897237	false		
+897330	false		
+897433	false		
+897451	false		
+897545	false		
+897648	false		
+897657	false		
+897853			
+898010	false		
+898140	false		
+898458	false		
+898533	false		
+898627	false		
+898850	false		
+899008			
+899156	false		
+899343	false		
+899370	false		
+899428	false		
+899455	false		
+899642	false		
+899651	false		
+899736	false		
+899754	false		
+900034	false		
+900137	false		
+900146	false		
+900230	false		
+900258	false		
+900306			
+900454	false		
+900502			
+901134	false		
+901358	false		
+901451	false		
+901844	false		
+901938	false		
+901956	false		
+902645	false		
+903062			
+903240			
+903455	false		
+903558	false		
+903754			
+903950	false		
+904171	false		
+904201			
+904359	false		
+904425	false		
+904667	false		
+904845	false		
+904957	false		
+905356	false		
+905655	false		
+906063			
+906241	false		
+906410	false		
+906559			
+906652	false		
+907257	false		
+907444			
+907547	false		
+907958	false		
+908003	false		
+908058	false		
+908450			
+908553	false		
+908759	false		
+908861	false		
+909055	false		
+909541	false		
+909756			
+909859	false		
+910042	false		
+910118	false		
+910145			
+910239	false		
+910314			
+910350	false		
+910659	false		
+911160	false		
+911339	false		
+911405	false		
+911740	false		
+911759	false		
+911807	false		
+911825	false		
+912055			
+912242	false		
+912550	false		
+912578	false		
+912756			
+912943			
+913034	false		
+913146	false		
+913203			
+913267	false		
+913436	false		
+913520	false		
+913641	false		
+913753	false		
+913847	false		
+913856	false		
+913940	false		
+914237	false		
+914330	false		
+914349	false		
+914451	false		
+914545	false		
+914648			
+914853	false		
+914956	false		
+915056	false		
+915065	false		
+915252	false		
+915261	false		
+915645	false		
+915935	false		
+916053	false		
+916147	false		
+916259	false		
+916343	false		
+916745			
+916857	false		
+917032	false		
+917050	false		
+917331	false		
+917359	false		
+917452	false		
+917500			
+917555	false		
+917630	true		
+917742			
+917854	false		
+918132	false		
+918150	false		
+918356	false		
+918459	false		
+918477	false		
+918655	false		
+918918	false		
+918954			
+919241	false		
+919308	false		
+919344	false		
+919456	false		
+919568	false		
+919652			
+919755	false		
+919858	false		
+919942	false		
+920050	false		
+920078	false		
+920210	false		
+920274	false		
+920359	false		
+920733	false		
+920854	false		
+920863			
+920975	false		
+921039			
+921655	false		
+921833	false		
+921842			
+921936	false		
+922157	false		
+922344			
+922456	false		
+922559	false		
+922728	false		
+922924	false		
+922942	false		
+923257	false		
+923350	false		
+923556	false		
+923707			
+923743	false		
+923752	false		
+923855	false		
+923949	false		
+924058	false		
+924236	false		
+924254	false		
+924348	false		
+924357	false		
+924553	false		
+924656	false		
+924713			
+924759	false		
+924843	false		
+924937	false		
+925037	false		
+925055	false		
+925354			
+925411	false		
+925439	false		
+925653	false		
+925710			
+925831	false		
+925840	false		
+925859	false		
+926025	false		
+926155	false		
+926203			
+926324	false		
+926342	false		
+926360	false		
+926632	false		
+926650	false		
+926959	false		
+927134	false		
+927255	false		
+927479	false		
+927518	false		
+928038			
+928056	false		
+928421			
+928618	false		
+928645	false		
+928850	false		
+929044	false		
+929352	false		
+929802	false		
+929932	false		
+930358	false		
+930442	false		
+930451			
+930563	false		
+930853	false		
+930965			
+931038	false		
+931047	false		
+931159	true		
+931270	false		
+931319	false		
+931355	false		
+931458	false		
+931636	false		
+931654	false		
+931766			
+931944	false		
+932062	false		
+932361	false		
+932633	false		
+932642	false		
+932745	false		
+932820	false		
+932978			
+933023	false		
+933041	false		
+933135	false		
+933256	false		
+933340	false		
+933377	false		
+933425	false		
+933621			
+933854	false		
+933863	false		
+933957			
+933966	false		
+933975	false		
+934075	false		
+934114	false		
+934253			
+934329	false		
+934646	false		
+934842	false		
+934954	false		
+935054	false		
+935111	false		
+935250	false		
+935308			
+935559	false		
+935634	false		
+935719	false		
+935858	false		
+936136	false		
+936426			
+936462	false		
+936556			
+936640	false		
+936837	false		
+936855	false		
+937339	false		
+937348	false		
+937553	false		
+937740	false		
+937759			
+937834			
+937843	false		
+938233	false		
+938354	false		
+938523			
+938550	false		
+938644	false		
+938653	false		
+938840			
+938859	false		
+939155			
+939249	false		
+939258	false		
+939351	false		
+939436	false		
+939641			
+939753	false		
+939959	false		
+940021	false		
+940311	false		
+940674	false		
+940731	false		
+940825	false		
+940852	false		
+940955	false		
+941233	false		
+941457	false		
+941541	false		
+941804	true		
+941952	false		
+942043			
+942258	false		
+942454	false		
+942539	false		
+942838			
+942847			
+942874	false		
+942959	false		
+943004	false		
+943059			
+943068			
+943107	false		
+943143	false		
+943152			
+943255	false		
+943675	false		
+943853	false		
+944047	false		
+944337	false		
+944355	false		
+944551	false		
+944627	false		
+944739	false		
+944748			
+944841	false		
+944935	false		
+945026			
+945053			
+945259	false		
+945343	true		
+945941	false		
+945950	false		
+945969	false		
+946171	false		
+946461	false		
+946555			
+946760	false		
+946948			
+947141	false		
+947150	false		
+947178			
+947525			
+947543	false		
+947628	false		
+947655	false		
+947749	false		
+947776	false		
+947842	false		
+948036	false		
+948250	false		
+948278	false		
+948531	false		
+948643	false		
+948942	false		
+948951	false		
+949051	false		
+949154			
+949257	false		
+949305	false		
+949350	false		
+949453	false		
+949556	false		
+949752	false		
+949949			
+950141	false		
+950356	false		
+950365	false		
+950758	false		
+950936	false		
+951102	false		
+951371	false		
+951456	false		
+952051	false		
+952172	false		
+952257	false		
+952453			
+952547			
+952846	false		
+953357	false		
+953450	false		
+953535			
+953843	false		
+953852	false		
+953955	false		
+954158	false		
+954251	false		
+954279			
+954457	false		
+954550	false		
+954653	false		
+955052	false		
+955548	false		
+955605	false		
+955623	false		
+955753	false		
+955856	false		
+955940	true		
+955959	false		
+956134	false		
+956152	false		
+956255	false		
+956358			
+956376	false		
+956527			
+956554	true		
+956611	false		
+956657	false		
+956750	false		
+956938			
+956956	false		
+957047	false		
+957056	false		
+957159	false		
+957551	false		
+957645	false		
+957757	false		
+958053	false		
+958204	false		
+958231	false		
+958558	false		
+958615	false		
+958727	false		
+958763	false		
+959256	false		
+959443	false		
+959630	false		
+959658			
+959715	false		
+959779	false		
+959854	false		
+959957	false		
+960047	false		
+960159	false		
+960430	false		
+960533			
+960551	false		
+960560	false		
+960609	false		
+960702	false		
+960748			
+960841	false		
+960935	false		
+961259	false		
+961343			
+961400	false		
+961446	false		
+961811			
+962041	false		
+962108	false		
+962256	false		
+962265	true		
+962313			
+962854	false		
+962966	false		
+963002	false		
+963543			
+963730	true		
+963945	false		
+963954	false		
+964157	false		
+964250	false		
+964344			
+964353	false		
+964362	true		
+964643			
+964700			
+964755	false		
+965051	false		
+965163			
+965220			
+965800	false		
+965855	false		
+966179			
+966245	false		
+966254	false		
+966348	false		
+966357	false		
+966656	false		
+966722			
+966731	false		
+966919			
+966946			
+967046	false		
+967411	false		
+967877	false		
+967943	false		
+967952	false		
+968155	false		
+968249	false		
+968267	false		
+968351	false		
+968436	false		
+968557	false		
+968605	false		
+968678	true		
+968744	false		
+969059	false		
+969255	false		
+969349			
+969424	false		
+969639	false		
+969723	false		
+969741			
+969817	false		
+969844			
+969956	false		
+970055			
+970233	false		
+970242	false		
+971379	false		
+971472	false		
+971959			
+972143	false		
+972237	false		
+972406	false		
+972648	false		
+972732	false		
+972750	false		
+972769	false		
+972862	false		
+972956	false		
+973056	false		
+973140	false		
+973252	false		
+973364	false		
+974213	false		
+974259	false		
+974343	false		
+974558	false		
+974567	false		
+974754	false		
+974848	false		
+974866	false		
+974950	false		
+975153	false		
+975256	false		
+975452	false		
+975555	false		
+975751	false		
+975845	false		
+975854			
+975911			
+976057	false		
+976141	true		
+976226	false		
+976347			
+976534	false		
+976552	false		
+976703			
+976842	false		
+976954	false		
+977036	false		
+977045	false		
+977072	false		
+977250	false		
+977616	false		
+977652	false		
+977942	false		
+977951	false		
+978051	false		
+978118			
+978154			
+978239	false		
+978323	false		
+978369			
+978417	false		
+978622	false		
+978659	false		
+978846	false		
+979133	false		
+979151	false		
+979357	false		
+979629			
+979759	false		
+980045	false		
+980157	false		
+980344			
+980353	false		
+980438	false		
+980531	false		
+980634	false		
+980652	false		
+980661	false		
+980951	false		
+980960			
+981350	false		
+981453	false		
+981855	false		
+982142			
+982151	false		
+982263	false		
+982348	false		
+982553			
+982731			
+982937			
+983055	false		
+983130			
+983158	false		
+983215	false		
+983233	false		
+983448	false		
+983457			
+983550	false		
+984258	false		
+984351	true		
+984379	false		
+984454	false		
+984557			
+984650	false		
+984735	false		
+984856	false		
+985134	false		
+985451			
+985554	false		
+985602	false		
+985620	false		
+985657	false		
+985732	false		
+985844	false		
+985871	false		
+985956	false		
+986159	false		
+986551	false		
+986739	false		
+986757	false		
+986850	false		
+986935	false		
+987053	false		
+987231	false		
+987259	false		
+987352			
+987651	false		
+987848	false		
+988144	false		
+988153	false		
+988229			
+988256	false		
+988452	false		
+988470	false		
+988658	false		
+988845	false		
+988957	false		
+989141	false		
+989253	false		
+989347	false		
+989356	false		
+989534	false		
+989655	false		
+989730	false		
+989758	false		
+989851	false		
+990053	false		
+990156	false		
+990325	false		
+990352	false		
+990642	false		
+991041	false		
+991135	false		
+991340	false		
+991359	false		
+991555	false		
+991621	false		
+991715			
+991854	false		
+992057			
+992253	false		
+992758	false		
+992851	false		
+993250	false		
+993335	false		
+993353			
+993652	false		
+994435			
+994565			
+994716	false		
+995076	false		
+995151	false		
+995450			
+995517			
+995674			
+995955	false		
+996251	false		
+996260	false		
+996354			
+996457			
+996466			
+996840	false		
+997052	false		
+997155			
+997333	false		
+997472	false		
+997557			
+997650	false		
+997771	false		
+997847			
+997856	false		
+998116			
+998358	false		
+998554	false		
+998648	false		
+998657	false		
+998675			
+998750	false		
+998974			
+999355	false		
+999430	true		
+999663	false		
+999935	false		
+1000052	false		
+1000100	false		
+1000276	false		
+1000409	false		
+1000511	false		
+1000557	false		
+1000641	false		
+1000726			
+1000856	false		
+1000959	false		
+1001059	false		
+1001152	false		
+1001273			
+1001451	false		
+1001572	false		
+1001639	false		
+1001648			
+1001705	false		
+1001750	false		
+1001817	false		
+1001853	false		
+1002355	false		
+1002373	false		
+1002430	false		
+1002458	false		
+1002524	false		
+1002618	false		
+1002850	false		
+1002878	false		
+1002953	false		
+1003455	false		
+1003549	false		
+1003558	false		
+1003606			
+1003679			
+1003839	false		
+1003848			
+1003950	false		
+1004238	false		
+1004256	false		
+1004265	false		
+1004368			
+1004470	false		
+1005262	false		
+1005440	false		
+1005459	false		
+1005552	false		
+1005655	false		
+1005758	false		
+1005833	false		
+1005851	false		
+1005860			
+1006148	false		
+1006157	false		
+1006344			
+1006513	false		
+1006559	false		
+1006577	false		
+1006652	false		
+1006670	false		
+1006858	false		
+1006867	true		
+1006951	false		
+1007015			
+1007051	false		
+1007145	false		
+1007154	false		
+1007417			
+1007444			
+1007556	false		
+1007659	false		
+1007734	true		
+1007752	false		
+1007819			
+1007846			
+1007903			
+1007930	false		
+1007958	false		
+1008076	false		
+1008133			
+1008151	false		
+1008209	false		
+1008432	false		
+1008450	false		
+1008553			
+1008647	false		
+1008674	false		
+1008731	false		
+1008955	false		
+1009055			
+1009242	false		
+1009354	false		
+1009420			
+1009541			
+1009729	false		
+1009756	false		
+1009804	false		
+1009813			
+1009831	false		
+1009840	false		
+1009952	false		
+1010015	false		
+1010051	false		
+1010471	false		
+1010761	false		
+1010930	false		
+1011432	false		
+1011526	false		
+1011553	false		
+1011638	false		
+1011656	false		
+1011740			
+1011852	false		
+1011955	false		
+1012055	false		
+1012251	false		
+1012354			
+1012457	false		
+1012671	false		
+1012859	false		
+1013043	false		
+1013070	false		
+1013650	false		
+1013735	false		
+1013744	false		
+1013753	false		
+1013856	false		
+1014040	false		
+1014059	false		
+1014125	false		
+1014246			
+1014255	true		
+1014376	false		
+1014451	false		
+1014554	false		
+1014657	false		
+1014675	false		
+1014778			
+1014844	false		
+1014853	false		
+1014929	false		
+1014956	false		
+1014965	false		
+1015056	false		
+1015177	false		
+1015243			
+1015252			
+1015458	false		
+1015467	false		
+1015560	false		
+1015832	false		
+1015841	false		
+1015850			
+1016062	false		
+1016231	false		
+1016259			
+1016316	false		
+1016558	false		
+1016718	false		
+1016754	false		
+1016772	false		
+1016848	false		
+1016857	false		
+1016941	false		
+1017032	false		
+1017256	false		
+1017274	false		
+1017425	false		
+1017528	true		
+1017555	false		
+1017564	false		
+1017649	false		
+1017658	false		
+1017854	true		
+1017939			
+1017957	false		
+1028010	false		
+1029325			
+1119909	false		
+1156221	false		
+1156388	false		
+1156397	false		
+1156539	false		
+1156874			
+1157219	false		
+1157255	false		
+1157415	false		
+1158832	false		
+1158878	false		
+1159996			
+1160152	false		
+1160161	false		
+1160424	false		
+1160509	false		
+1160545	false		
+1160732	false		
+1160808	false		
+1160853			
+1161029	false		
+1161216	false		
+1162017	false		
+1162099	false		
+1162147			
+1162530			
+1162558	false		
+1162914	false		
+1163153	false		
+1163171	false		
+1164329	false		
+1164347			
+1164730	false		
+1165531	false		
+1165540			
+1166060	false		
+1166435	false		
+1166453	false		
+1167263	false		
+1167393	false		
+1167889			
+1168439	false		
+1169182	false		
+1169650	false		
+1169913	false		
+1176881	false		
+1176920	false		
+1186956	false		
+1186965	false		
+1187001			
+1187029			
+1187391	false		
+1187494			
+1187551	false		
+1187896	false		
+1188594	true		
+1188772	false		
+1188987	false		
+1189041	false		
+1189993	false		
+1190001	false		
+1190074	false		
+1190476	false		
+1191352	false		
+1191446			
+1191482	false		
+1192733	false		
+1193516			
+1193543	false		
+1198605	false		
+1198614			
+1198641			
+1211371	false		
+1211429	false		
+1211700	false		
+1212631	false		
+1212846			
+1213254	false		
+1213768			
+1213777	false		
+1215726	false		
+1216022	false		
+1216059	false		
+1216291	false		
+1216321	false		
+1216808			
+1216826	false		
+1216974			
+1216992	false		
+1217485	true		
+1217494	false		
+1217832			
+1218165	false		
+1218446	false		
+1218482	false		
+1219144	false		
+1219591	false		
+1220524	false		
+1221558			
+1222519			
+1222948	false		
+1224812			
+1225033	false		
+1225734	false		
+1225752	false		
+1225761	false		
+1225798	false		
+1225800			
+1228034			
+1228249	false		
+1229198	false		
+1229228	false		
+1229424			
+1293078			
+1349890	false		
+1356115			
+1356526	false		
+1356535	false		
+1356683	false		
+1356768	false		
+1356852	false		
+1357466	false		
+1358696	false		
+1360420	false		
+1362237	false		
+1362246	false		
+1363270			
+1366909	false		
+1367858	false		
+1369870			
+1377521	false		
+1386251	false		
+1390324	false		
+1390342	false		
+1391170			
+1391415	false		
+1391778	false		
+1392542	false		
+1393624	false		
+1394621	false		
+1394667	false		
+1394676	false		
+1396483	false		
+1396652			
+1396700	false		
+1396764	false		
+1397190	false		
+1397471	false		
+1398580	false		
+1399215	false		
+1399916	false		
+1400540	false		
+1401387			
+1401529	false		
+1401547			
+1401631	false		
+1401686	false		
+1401891	false		
+1401903	false		
+1401949			
+1402384	false		
+1402405	false		
+1402610	false		
+1402629	false		
+1402638	false		
+1404463	false		
+1404481	false		
+1404847			
+1404883	false		
+1404931			
+1404940	false		
+1406980	false		
+1407512	false		
+1407521	false		
+1407530	false		
+1407932	false		
+1408069			
+1411032	false		
+1412598			
+1412619	false		
+1412712	false		
+1413090	false		
+1413139	false		
+1414819	false		
+1416082	false		
+1416327	false		
+1416381			
+1417557			
+1418255	false		
+1419234	false		
+1421040	false		
+1421095	false		
+1421161			
+1425020			
+1427770	false		
+1429028	false		
+1434826	false		
+1435092	false		
+1435412			
+1435421	false		
+1436071	false		
+1436099			
+1436204			
+1436464	false		
+1436473	false		
+1436884	false		
+1437199	false		
+1438217	false		
+1438589	false		
+1439054	false		
+1439308			
+1439456	false		
+1440117	false		
+1441600	false		
+1442380			
+1442540	false		
+1442661	false		
+1443266			
+1443912	false		
+1444003	false		
+1444021			
+1444580	false		
+1445037	false		
+1445121	false		
+1445943			
+1447639	false		
+1447853	false		
+1448636	false		
+1450620			
+1451636	false		
+1455063	false		
+1456501	false		
+1457003			
+1458608			
+1458989	false		
+1459034	false		
+1459191	false		
+1459575	false		
+1459717	false		
+1459735	false		
+1459799	false		
+1460290	false		
+1460302			
+1462986	false		
+1463086			
+1463705	false		
+1463983	false		
+1464122	false		
+1464177	false		
+1466078	false		
+1466489	false		
+1469211	false		
+1469677	false		
+1470150	false		
+1470655	false		
+1471577	false		
+1473496			
+1474279	false		
+1474288	false		
+1474309			
+1478222			
+1478231	true		
+1478307	false		
+1479470	false		
+1479630	false		
+1479667	false		
+1479676	false		
+1480207	false		
+1481745	false		
+1481754	false		
+1484595			
+1486704			
+1492152	false		
+1492817	false		
+1494240	false		
+1494482			
+1494914	false		
+1495331	false		
+1496150	false		
+1496178			
+1516348	false		
+1516423			
+1629903	false		
+1717622	false		
+1718188	false		
+1718517	false		
+1764028	false		
+1819049	false		
+1819058			
+1819366	false		
+1820979	false		
+1821024	false		
+1821976			
+1824285	false		
+1824324	false		
+1826382			
+1830035	false		
+1831975	false		
+1833063			
+1836701			
+1837829	false		
+1841536	false		
+1841590	false		
+1842065	false		
+1842195	false		
+1852381	false		
+1852569	false		
+1853856			
+1856099	false		
+1856398			
+1857087	false		
+1857377	false		
+1861347	false		
+1861927			
+1862719			
+1863097			
+1863275			
+1863501	false		
+1864197	false		
+1864227	false		
+1864375	false		
+1864601			
+1864610	false		
+1864629	false		
+1864683	false		
+1865091	false		
+1865680			
+1865961	false		
+1866726	false		
+1866762	false		
+1867983	false		
+1871122	false		
+1872941	false		
+1872996	false		
+1874936	false		
+1877665			
+1879016	false		
+1879043	false		
+1881541	false		
+1882070	false		
+1884140	false		
+1885848			
+1885932	false		
+1887486	false		
+1887495			
+1887516	false		
+1890374	false		
+1890413			
+1890525	false		
+1890598	false		
+1892154	false		
+1893263	false		
+1893272	false		
+1897168	false		
+1897270			
+1898419	false		
+1899902			
+1900675	false		
+1901243	false		
+1904020	false		
+1904673			
+1906172			
+1907599	false		
+1908082			
+1914421	false		
+1916612	false		
+1916751			
+1917301	false		
+1918344	false		
+1919556	false		
+1920945	false		
+1928594	false		
+1928754	false		
+1929247	false		
+1931941	false		
+1933927			
+1934876			
+1936320	false		
+1945247	false		
+1948921	false		
+1954294	false		
+1962888	false		
+1972298	false		
+1973129			
+1973633	false		
+1977248			
+1978535	false		
+1988730	false		
+1990751			
+1992513	false		
+1994124	false		
+1996762	false		
+1998775	false		
+2002222	false		
+2004105	false		
+2006024	false		
+2007991	false		
+2008608	false		
+2009360	false		
+2009605	false		
+2010722	false		
+2012687	false		
+2017570	false		
+2019453	false		
+2021634			
+2028400	false		
+2033123			
+2033806	false		
+2034652	false		
+2035716	false		
+2036843	false		
+2037185	false		
+2038614	false		
+2038641	false		
+2038717			
+2042684	false		
+2044811	false		
+2044820	false		
+2045694	false		
+2047504	false		
+2051127	false		
+2051163			
+2059758	false		
+2060110	false		
+2060594	false		
+2060875	false		
+2068107	false		
+2068134	false		
+2074256	false		
+2078290			
+2079493			
+2085177	false		
+2087845	false		
+2107341			
+2108348	false		
+2110640			
+2111553	false		
+2114282			
+2119773	false		
+2121196	false		
+2122997	false		
+2123930	false		
+2127826	false		
+2129008	false		
+2132594			
+2132941	false		
+2142016	false		
+2142155	false		
+2142294	false		
+2145389	false		
+2146023	false		
+2158389	false		
+2160654	false		
+2164111			
+2171100			
+2187101			
+2190521	false		
+2194426	false		
+2194912			
+2197098	false		
+2199252			
+2203337			
+2203355	false		
+2203739	false		
+2209553	false		
+2214744	false		
+2219422	false		
+2232757			
+2233875	false		
+2235244	false		
+2236214	false		
+2236652	false		
+2236773	false		
+2236821	false		
+2239288	false		
+2243977	false		
+2244349	false		
+2244367	false		
+2249175	false		
+2250108	false		
+2253725			
+2253891	false		
+2254656			
+2257125			
+2259455	false		
+2262763			
+2263313	false		
+2264075	false		
+2265335	false		
+2265456	false		
+2267683	false		
+2267991	false		
+2269847			
+2270601			
+2270795	false		
+2271523	false		
+2273385	false		
+2280552	false		
+2281371	false		
+2285708			
+2286554	false		
+2287793			
+2289537			
+2290122	false		
+2290887			
+2291204	false		
+2292368	false		
+2297073	false		
+2297998	false		
+2298995	false		
+2301448	false		
+2301840	false		
+2301952			
+2302379			
+2303086	false		
+2304234	false		
+2304382	false		
+2304636			
+2305969	false		
+2306500	false		
+2307271	false		
+2308326	false		
+2315061	false		
+2315511	false		
+2315922	false		
+2316714	false		
+2317645	false		
+2317672	false		
+2318110	false		
+2319676	false		
+2328137	false		
+2328230	false		
+2328249			
+2328285	false		
+2329200			
+2329497	false		
+2330895	false		
+2331838	false		
+2332602	false		
+2332666			
+2332808			
+2332910	false		
+2333140	false		
+2333298	false		
+2333412	false		
+2337335	false		
+2339535	false		
+2339599	false		
+2339795	false		
+2339900	false		
+2339964	false		
+2340193	false		
+2340205			
+2342160			
+2343167			
+2343402	false		
+2344753	false		
+2346579	false		
+2346609	false		
+2347044	false		
+2349301	false		
+2349459	false		
+2352235	false		
+2352507	false		
+2352815	false		
+2353595	false		
+2353698	false		
+2354314	false		
+2354323	false		
+2354387	false		
+2354985	false		
+2356046	false		
+2356064	false		
+2356091	false		
+2356336	false		
+2356710	false		
+2358769			
+2359926	false		
+2360904	false		
+2361901	false		
+2362074	false		
+2362168	false		
+2362458	false		
+2364564	false		
+2365990	false		
+2366924			
+2369916	false		
+2370994	false		
+2371816			
+2372774	false		
+2374170	false		
+2374901	false		
+2376428	false		
+2376464			
+2380470	false		
+2380993	false		
+2382308	false		
+2383882	false		
+2383903	false		
+2385149			
+2385514	true		
+2388784	false		
+2388917			
+2389820			
+2389857	false		
+2389884	false		
+2390929	false		
+2391252			
+2391494	false		
+2391588	false		
+2392950	false		
+2396547	false		
+2396574	false		
+2396583	false		
+2396592	false		
+2396604	false		
+2397713			
+2398578	false		
+2398596	false		
+2398701	false		
+2399119	false		
+2403548	false		
+2407537			
+2409997	false		
+2412072	false		
+2413510			
+2423023	false		
+2428381	false		
+2431363	false		
+2433451	false		
+2434113	false		
+2435400	false		
+2435615	false		
+2435660	false		
+2441120	false		
+2442583			
+2443478	false		
+2443535	false		
+2445052	false		
+2446152	false		
+2450627	false		
+2450711			
+2451240	false		
+2451482			
+2453132	false		
+2454009	false		
+2454027	false		
+2454607	false		
+2454867	false		
+2458119	false		
+2459992	false		
+2460121	false		
+2461641	false		
+2463672	false		
+2465881	false		
+2466712	false		
+2467670			
+2468097	false		
+2470858	false		
+2471239	false		
+2472508			
+2473354	false		
+2474940			
+2479310	false		
+2479477	false		
+2479927	false		
+2480503			
+2480512	false		
+2480736	false		
+2480790	false		
+2481180	false		
+2481210			
+2482169			
+2482374	false		
+2482600	false		
+2482730	false		
+2482824	false		
+2482851	false		
+2483120			
+2483362	false		
+2483438	false		
+2484145	false		
+2485544	false		
+2485900	false		
+2486699	false		
+2488956	false		
+2489542	false		
+2490285	false		
+2491291	false		
+2493110			
+2493697	false		
+2494742	false		
+2495020	false		
+2495628	false		
+2496081	false		
+2497181	false		
+2497190	false		
+2498786	false		
+2500773	false		
+2502610	true		
+2502656	false		
+2502816	false		
+2502825			
+2503091	false		
+2503185	false		
+2503345	false		
+2503569	false		
+2505004	false		
+2505424	false		
+2505451	false		
+2505460	false		
+2505787			
+2506056			
+2506328			
+2506757	false		
+2507802	false		
+2507848			
+2508126	false		
+2508359	false		
+2508751	false		
+2508779	false		
+2509486	false		
+2511126	false		
+2511386	false		
+2512347	false		
+2512440	false		
+2514042	false		
+2514547	false		
+2514583	false		
+2514837	false		
+2515272	false		
+2515320	false		
+2515441	false		
+2516327			
+2516626			
+2517182	false		
+2518424	false		
+2518497	false		
+2519001	true		
+2521077			
+2522681	false		
+2524797	false		
+2525860	false		
+2528656	false		
+2529176	false		
+2529644	false		
+2531058	false		
+2531496			
+2531562	false		
+2531991	false		
+2532082	false		
+2532662	false		
+2532961	false		
+2533043	false		
+2533119	false		
+2534086			
+2534581	false		
+2535551			
+2535560	false		
+2536633	false		
+2538842	false		
+2539081	false		
+2539184	false		
+2539960			
+2540537			
+2541721	false		
+2544991	false		
+2550095	false		
+2551047	false		
+2552099	false		
+2556882	false		
+2557151	false		
+2558176			
+2558185	false		
+2558970			
+2559520	false		
+2560526	false		
+2562137	false		
+2562164	false		
+2562230	false		
+2562838	false		
+2567123	false		
+2568120	false		
+2569396			
+2571081	false		
+2572109	false		
+2573759	false		
+2574327			
+2575155			
+2575717	false		
+2575995	false		
+2576134	false		
+2576143	false		
+2576198	false		
+2576433			
+2577243	false		
+2577739	false		
+2578240	false		
+2578491	false		
+2578727	false		
+2579069	false		
+2580243	false		
+2580506	false		
+2580645	false		
+2581558	false		
+2581594	false		
+2581905			
+2581932			
+2582023			
+2582032			
+2582591	false		
+2583347	false		
+2583721	false		
+2584782	false		
+2584988	false		
+2586281			
+2586302	false		
+2586740			
+2587916	false		
+2587998	false		
+2588089	false		
+2594240	false		
+2594400	false		
+2594419	false		
+2594428	false		
+2595461	false		
+2595649	false		
+2595975			
+2596262	true		
+2596619	false		
+2596637	false		
+2596646	false		
+2596655	false		
+2596785	false		
+2597698	false		
+2598248	false		
+2598275	false		
+2598396	false		
+2599478	false		
+2600039	false		
+2602220	false		
+2602800	false		
+2602828	false		
+2603106	false		
+2603629			
+2604514	false		
+2604925	false		
+2605511	false		
+2605566	false		
+2606460	false		
+2607225	false		
+2607382	false		
+2607412	false		
+2607449	false		
+2607467			
+2608754			
+2608790			
+2608905	false		
+2610784	false		
+2611044	false		
+2611709	false		
+2612162	false		
+2613516			
+2614018	false		
+2614344	false		
+2615190	false		
+2615220	false		
+2616076	false		
+2618276	false		
+2618726	false		
+2618780			
+2619572	false		
+2619714			
+2619732	false		
+2620439	false		
+2621285			
+2621306	false		
+2621342	false		
+2621379	false		
+2621931	false		
+2621940	false		
+2622161	false		
+2622198	false		
+2623494	false		
+2624400			
+2624651	false		
+2625023			
+2625724	false		
+2626794	false		
+2626815	false		
+2630559	false		
+2630782			
+2631172	false		
+2631314	false		
+2631323	false		
+2631408			
+2631846	false		
+2632599	false		
+2632713	false		
+2634191	false		
+2634351			
+2634735	false		
+2635077	false		
+2635901			
+2636074	false		
+2636083	false		
+2636458			
+2640530	false		
+2640594			
+2640772	false		
+2641210	false		
+2641827	false		
+2642598	false		
+2643438	false		
+2643595	false		
+2645106	false		
+2645889	false		
+2646327	false		
+2646523	false		
+2646813	false		
+2647173	false		
+2648330	false		
+2648376	false		
+2648460			
+2649122			
+2649168	false		
+2649177	false		
+2650333	false		
+2651675	false		
+2651899	false		
+2652092	false		
+2654818	false		
+2655495	false		
+2655507	false		
+2657855	false		
+2661861			
+2661898	false		
+2665515	false		
+2665841	false		
+2666400			
+2667911	false		
+2667920	false		
+2667939	false		
+2667957	false		
+2668459	false		
+2668570	false		
+2668598	false		
+2670818	true		
+2671093	false		
+2671105	false		
+2678449	false		
+2679709	false		
+2679839			
+2682709	false		
+2683014	false		
+2683555	false		
+2684132	false		
+2684945	false		
+2685241	false		
+2685504	false		
+2685764	false		
+2686136	false		
+2686211			
+2686529	false		
+2686538	false		
+2686828	false		
+2687133	false		
+2687487	false		
+2687919	false		
+2688390	false		
+2688448	false		
+2688895	false		
+2689128			
+2689191	false		
+2689463	false		
+2692418	false		
+2692753			
+2692762	false		
+2693264	false		
+2693657	false		
+2693693	false		
+2694430	false		
+2694681	false		
+2694935	false		
+2694944	false		
+2696180	false		
+2696528			
+2697619	false		
+2697963			
+2697990	false		
+2698438	false		
+2698492	false		
+2699109	false		
+2699631			
+2700322	false		
+2700984			
+2701767	false		
+2701833	false		
+2702764	false		
+2704188	false		
+2705121	false		
+2705895	false		
+2706016	false		
+2707451	false		
+2708122			
+2709138	false		
+2710554	false		
+2710666	false		
+2710705	false		
+2712978	true		
+2713461	false		
+2713555	false		
+2713582	false		
+2714217	false		
+2714570			
+2716088	false		
+2716163	false		
+2716613	false		
+2716622	false		
+2716828	false		
+2717012	false		
+2717151	false		
+2718297			
+2718345	false		
+2718596	false		
+2718738			
+2719427	false		
+2719810	false		
+2720946	false		
+2721103	false		
+2721475	false		
+2721747	false		
+2721765	false		
+2721877	false		
+2722173	false		
+2722182	false		
+2722922	false		
+2722959	false		
+2723068			
+2723581	false		
+2723666	false		
+2723787	false		
+2724757			
+2724766	false		
+2726050			
+2726416	false		
+2726443	false		
+2727431			
+2727619			
+2727673	false		
+2727990	false		
+2728111	false		
+2728474	false		
+2728661			
+2729314	false		
+2729604	true		
+2729770	false		
+2729846			
+2730356	false		
+2730431			
+2730477	false		
+2731287	false		
+2731876	false		
+2732565	false		
+2733263	false		
+2733348	false		
+2734729			
+2735137	false		
+2735173	false		
+2735182	false		
+2735191	false		
+2735324	false		
+2735762	false		
+2735913	false		
+2735959	false		
+2736219	false		
+2736291	false		
+2736349	false		
+2736442	false		
+2736451	false		
+2736714	false		
+2736732	false		
+2736929			
+2737029	false		
+2737038			
+2737551	false		
+2737775			
+2737841			
+2737980	false		
+2738857	false		
+2742153	false		
+2742180	false		
+2742210	false		
+2742238	false		
+2742667	false		
+2743244	false		
+2743543	false		
+2744063	false		
+2744782	false		
+2745426			
+2745565	false		
+2745743			
+2746227			
+2746245	false		
+2746263	false		
+2746348	false		
+2747242			
+2747279	false		
+2747420	false		
+2747466	false		
+2747587	false		
+2747952	false		
+2748436			
+2748502	false		
+2748650	false		
+2749059	false		
+2750448			
+2750699	false		
+2751007	false		
+2751388			
+2751593	false		
+2751977	false		
+2753542	false		
+2753588	false		
+2753672	false		
+2753917	false		
+2754389	false		
+2755733			
+2756730	false		
+2756749	false		
+2756767			
+2756785	false		
+2756909	false		
+2757205	false		
+2757586	false		
+2757906			
+2757951	false		
+2758024	false		
+2758613	false		
+2759629	false		
+2760102	false		
+2760232	false		
+2761275	false		
+2761912			
+2761930	false		
+2761967	false		
+2762638	false		
+2764212	false		
+2764258	false		
+2765602	false		
+2765611	false		
+2766092	false		
+2767763			
+2769039	false		
+2769150	false		
+2769383	false		
+2769570	false		
+2769589	false		
+2769954	false		
+2769972			
+2771528	false		
+2771694	false		
+2771797	false		
+2772888	false		
+2773867			
+2774707	false		
+2775151	false		
+2775179	false		
+2775692	false		
+2776103	false		
+2777070	false		
+2777472	false		
+2777548	false		
+2777650	false		
+2781152	false		
+2782337	false		
+2783660	false		
+2783736	false		
+2783772	false		
+2785477	false		
+2785637	false		
+2785646	false		
+2787770	false		
+2788656	false		
+2788807	false		
+2789457	false		
+2791003	false		
+2791076	false		
+2791085			
+2791281	false		
+2791508	false		
+2791517	false		
+2791795	false		
+2791889	false		
+2792064	false		
+2792466	false		
+2793155			
+2793593	false		
+2793883	false		
+2794732	false		
+2796017			
+2796277			
+2796295	false		
+2796615			
+2797014	false		
+2797153			
+2797162	false		
+2797171			
+2797210	false		
+2797359	false		
+2797724			
+2798897	false		
+2799250	false		
+2799399	false		
+2799803	false		
+2800026	false		
+2800491	false		
+2802664	false		
+2802945	false		
+2803223	false		
+2803830	false		
+2804864	false		
+2804882			
+2804891			
+2804903	false		
+2805441	false		
+2805535	false		
+2805928	false		
+2806091	false		
+2806112	false		
+2806626			
+2806635	false		
+2806840	false		
+2807173	false		
+2808358	false		
+2808602	false		
+2808723	false		
+2808787	false		
+2808808	false		
+2809355	false		
+2809935			
+2810007			
+2811086	false		
+2813491	false		
+2813790	false		
+2814210	false		
+2815123			
+2815262	false		
+2815879	false		
+2816474	false		
+2817583	false		
+2817592	false		
+2817677	false		
+2817837	false		
+2818731			
+2819103	false		
+2819158	false		
+2820604	false		
+2821825	false		
+2821852	false		
+2822363			
+2823221	false		
+2823230	false		
+2824657	false		
+2826017			
+2826316			
+2828794	false		
+2829335	false		
+2830135	false		
+2830537	false		
+2831619	false		
+2831879	false		
+2833181	false		
+2833882	true		
+2834179	false		
+2834759			
+2835103	false		
+2835626	false		
+2835756	false		
+2836306	false		
+2836810			
+2837059	false		
+2837077	false		
+2837189	true		
+2837200	false		
+2837219	false		
+2837406	true		
+2838029	false		
+2838207			
+2839053			
+2839222	false		
+2839745	false		
+2839790	false		
+2841047	false		
+2841702	false		
+2843706	false		
+2843724	false		
+2845166	false		
+2845205	false		
+2845410	false		
+2845719	false		
+2845755	false		
+2845782	false		
+2846051	false		
+2846444	false		
+2846453			
+2846574	false		
+2847085	false		
+2847142	false		
+2847432	false		
+2847900	false		
+2848037			
+2848055	false		
+2848493	false		
+2848671	false		
+2848756	false		
+2848895	false		
+2849212	false		
+2849285	false		
+2849605	false		
+2849801	false		
+2849829	false		
+2850535			
+2850629			
+2850722	false		
+2850768	false		
+2851028	false		
+2851185	false		
+2853349	false		
+2853358	false		
+2854113	false		
+2854140	false		
+2854494	false		
+2855071			
+2855156	false		
+2855307	false		
+2855633	false		
+2855866	false		
+2855884	false		
+2855893	false		
+2855914	false		
+2855950			
+2855978	false		
+2856032	false		
+2856395	false		
+2856500			
+2856685	false		
+2856694	false		
+2856939	false		
+2857600	false		
+2857794	false		
+2857806	false		
+2858205	false		
+2858492	false		
+2858858	false		
+2858960	false		
+2859118	false		
+2859574	false		
+2859903	false		
+2860039	false		
+2860066	false		
+2860271	false		
+2860440	false		
+2860628	false		
+2861317	false		
+2861335	false		
+2866255	false		
+2866385			
+2867056	false		
+2867337	false		
+2868259	false		
+2868352	false		
+2869162			
+2869180	false		
+2869199	false		
+2869667	false		
+2870430	false		
+2871099	false		
+2871558	false		
+2872340	false		
+2872845	false		
+2873075	false		
+2873860	false		
+2873981	false		
+2874634	false		
+2875202	false		
+2875592			
+2876290			
+2876311	false		
+2876889	false		
+2877345	false		
+2877484	false		
+2877831	false		
+2877840	false		
+2877886	false		
+2879992	false		
+2880019	false		
+2881593	false		
+2881614	false		
+2882125	false		
+2882983	false		
+2883001	false		
+2883038	false		
+2883047	false		
+2883971	false		
+2883980	false		
+2885171			
+2886178	true		
+2886187	false		
+2887157	true		
+2887269			
+2887335	false		
+2887399	false		
+2887661	false		
+2888604			
+2888789			
+2889227	false		
+2891109	false		
+2895835			
+2896216	false		
+2896298	false		
+2896430	false		
+2897400	false		
+2897503	false		
+2897633	false		
+2897736	false		
+2897754	false		
+2897763	false		
+2900092	false		
+2901688	false		
+2902041			
+2903123			
+2904344	false		
+2904849	false		
+2905163	false		
+2905538	false		
+2905565	false		
+2905604	false		
+2905613	false		
+2905761	false		
+2906311	false		
+2907019	false		
+2907046	false		
+2907309	false		
+2907448	false		
+2907484			
+2907493	false		
+2907943	false		
+2908575	false		
+2908641	false		
+2910121	false		
+2910194	false		
+2911128	false		
+2911191	false		
+2911511	false		
+2911856	false		
+2911865	false		
+2911986	false		
+2912367	false		
+2912750	false		
+2913346	false		
+2913551			
+2913702	false		
+2913887	false		
+2914361	false		
+2914718	false		
+2914727	false		
+2914820	false		
+2914905	false		
+2915126	false		
+2915461			
+2915797	false		
+2916365	false		
+2916879			
+2916963	false		
+2917184	false		
+2917924	false		
+2919076			
+2919423	false		
+2919898	false		
+2920287	false		
+2920737			
+2920773	false		
+2921211	false		
+2921592	false		
+2921622	false		
+2922339	false		
+2922674			
+2924128	false		
+2924575	false		
+2925620	false		
+2925666	false		
+2925723			
+2925899			
+2927615	false		
+2928733	false		
+2928742	false		
+2929075	false		
+2929253	false		
+2929392	false		
+2931603	false		
+2934903	false		
+2935423	false		
+2936840	false		
+2938143	false		
+2938161	false		
+2938198	false		
+2938684	false		
+2938769	false		
+2939001	false		
+2939038	false		
+2939391	false		
+2940191	false		
+2941068	false		
+2941509	false		
+2942524	false		
+2942814	false		
+2943389			
+2943615	false		
+2944108	false		
+2944715			
+2947556			
+2948049	false		
+2948058	false		
+2948245			
+2948423			
+2948450	false		
+2949073	false		
+2949710			
+2950604	false		
+2950668	false		
+2950677	false		
+2951683	false		
+2953418	false		
+2954059	false		
+2954497	false		
+2955458	false		
+2958048	false		
+2958972	false		
+2959700	false		
+2960331	false		
+2960434	false		
+2960555	false		
+2960742	false		
+2960788	false		
+2961703	false		
+2961776	false		
+2962652	false		
+2963266	false		
+2963547	false		
+2963864			
+2966614	false		
+2967349			
+2967796	false		
+2970657			
+2973041			
+2973715			
+2973872	false		
+2975625	false		
+2976042	false		
+2982810	false		
+2986304	false		
+2992350	false		
+2994493	false		
+2995904	false		
+2996536			
+2997216	false		
+2997926	false		
+2998576			
+3004803	false		
+3008306	false		
+3008397	false		
