@@ -14,7 +14,7 @@ lazy val root = project
   .settings(
     name                := "callrep",
     scalaVersion        := "2.11.12",
-    libraryDependencies += "com.mchange"            %% "superflex"             % "0.2.2-SNAPSHOT",
+    libraryDependencies += "com.mchange"            %% "superflex"             % "0.2.2",
     libraryDependencies += "com.mchange"            %% "mchange-commons-scala" % "0.4.16",
     libraryDependencies += "com.mchange"            %% "texttable"             % "0.0.2",
     libraryDependencies += "com.mchange"            %% "mlog-scala"            % "0.3.14",
