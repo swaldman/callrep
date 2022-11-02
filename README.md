@@ -95,9 +95,8 @@ _**Note:** The archiver manages `dolt`!
 Normally my database archivers expect a DBMS up and running, then you just run the archiver which communicates with
 the database via JDBC. However, we are now archiving this to [dolt](https://www.dolthub.com/), which generates a very
 large amount of temporary storage while archiving, whch must be cleaned up by calling `dolt gc` while the DBMS server
-is not running. So currently, this script manages the starting, stopping, and garbage collection of `dolt` by itself._
-
-_**TL; DR:** You must make sure that **no `dolt` server is running when you execute this archiver**, so that the archiver
+is not running. So currently, this script manages the starting, stopping, and garbage collection of `dolt` by itself.
+**TL; DR:** You must make sure that **no `dolt` server is running when you execute this archiver**, so that the archiver
 can manage (start, stop, restart) its own._
 
 #### Step by step
