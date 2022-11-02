@@ -31,9 +31,9 @@ repository. If you pull, you'll get the call report datafiles as of 2022-10-29.
 4. This application is a memory hog. I don't know what's strictly necessary, but the archiver is configured to run with up to 25GB of heap space.
 
 
-#### Note: The archiver manages `dolt
+#### Note: The archiver manages `dolt`!
 
-1. Normally my database archivers expect a DBMS up and running, then you just run the archiver which communicates with
+Normally my database archivers expect a DBMS up and running, then you just run the archiver which communicates with
 the database via JDBC. However, we are now archiving this to [dolt](https://www.dolthub.com/), which generates a very
 large amount of temporary storage while archiving, whch must be cleaned up by calling `dolt gc` while the DBMS server
 is not running. So currently, this script manages the starting, stopping, and garbage collection of `dolt` by itself.
@@ -45,11 +45,11 @@ can manage (start, stop, restart) its own.
 
 1. Make sure that `dolt` and a java 8 VM are on your path:
    ```bash
-   $ java --version
+$ java --version
 java 11.0.3 2019-04-16 LTS
 Java(TM) SE Runtime Environment 18.9 (build 11.0.3+12-LTS)
 Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.3+12-LTS, mixed mode)
-   $ dolt version
+$ dolt version
 dolt version 0.50.9
 database storage format: NEW ( __DOLT__ )
 
