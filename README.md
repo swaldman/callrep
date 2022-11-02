@@ -65,6 +65,8 @@ That's kind of a mess, but here's what you really need:
 * A [dictionary](https://www.mchange.com/projects/callrep/2022-10-29/BalanceSheetIncomeStatementPastDueDictionary.txt) of where you find data across the three `BalanceSheetIncomeStatementPastDue` tables
 * A [dictionary](https://www.mchange.com/projects/callrep/2022-10-29/AllSchedulesDictionary.txt) of where you find data across all of the individual schedule tables (`POR`,`CI`, `RCO1`, etc.)
 
+---
+
 _**Note:** Several of the individual schedules (but not the schedules BalanceSheetIncomeStatementPastDue tables) reported parse errors on while archiving.
 If you are querying against tables_
 
