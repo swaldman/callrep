@@ -16,11 +16,47 @@ will as well, if it can just be cloned as an interactively queriable database.
 
 ### Call Reports on DoltHub
 
-The database this code generates is now [pubished on dolthub](https://www.dolthub.com/repositories/swaldman/callrep).
+The database this code generates is now [pubished on dolthub](https://www.dolthub.com/repositories/swaldman/callrep). You should just [install `dolt`](https://docs.dolthub.com/introduction/installation) and clone the database!
+
+```
+$ dolt clone swaldman/callrep
+0 of 2,613,690 chunks complete. 786,432 chunks being downloaded currently.
+Downloading file: 6751bq0l28a7qfv5eib7r8kibvbl5dju (262,144 chunks) - 8.10% downloaded, 450 kB/s
+0 of 2,613,690 chunks complete. 786,432 chunks being downloaded currently.
+Downloading file: 6751bq0l28a7qfv5eib7r8kibvbl5dju (262,144 chunks) - 8.12% downloaded, 446 kB/s
+0 of 2,613,690 chunks complete. 786,432 chunks being downloaded currently.
+Downloading file: 6751bq0l28a7qfv5eib7r8kibvbl5dju (262,144 chunks) - 8.12% downloaded, 446 kB/s
+$ cd callrep/
+$ dolt sql -q "SELECT YEAR(Reporting_Period_End_Date) AS YEAR, COUNT(*) AS NUM_FILERS FROM BalanceSheetIncomeStatementPastDue1 WHERE MONTH(Reporting_Period_End_Date) = 12 GROUP BY YEAR ORDER BY YEAR ASC;"
++------+------------+
+| YEAR | NUM_FILERS |
++------+------------+
+| 2001 | 8689       |
+| 2002 | 8468       |
+| 2003 | 8348       |
+| 2004 | 8179       |
+| 2005 | 8056       |
+| 2006 | 7922       |
+| 2007 | 7788       |
+| 2008 | 7568       |
+| 2009 | 7321       |
+| 2010 | 6999       |
+| 2011 | 6789       |
+| 2012 | 7150       |
+| 2013 | 6877       |
+| 2014 | 6570       |
+| 2015 | 6238       |
+| 2016 | 5966       |
+| 2017 | 5721       |
+| 2018 | 5456       |
+| 2019 | 5227       |
+| 2021 | 4887       |
++------+------------+
+```
 
 ### Building the database yourself
 
-If you are masochistic, you can build the callrep database yourself. Datafiles are untowardly included in this git
+If you are masochistic, you can build the callrep database yourself. Datafiles are untowardly included in this (gigantic) git
 repository. If you pull, you'll get the call report datafiles as of 2022-10-29.
 
 #### Prerequisites
