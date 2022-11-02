@@ -44,23 +44,23 @@ can manage (start, stop, restart) its own.
 #### Step by step
 
 1. Make sure that `dolt` and a java 8 VM are on your path:
-   ```bash
-$ java --version
-java 11.0.3 2019-04-16 LTS
-Java(TM) SE Runtime Environment 18.9 (build 11.0.3+12-LTS)
-Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.3+12-LTS, mixed mode)
-$ dolt version
-dolt version 0.50.9
-database storage format: NEW ( __DOLT__ )
+   ```
+   $ java --version
+   java 11.0.3 2019-04-16 LTS
+   Java(TM) SE Runtime Environment 18.9 (build 11.0.3+12-LTS)
+   Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.3+12-LTS, mixed mode)
+   $ dolt version
+   dolt version 0.50.9
+   database storage format: NEW ( __DOLT__ )
 
    ```
 2. Prepare your repository with
-   ```bash
+   ```
    $ ./reset-output.sh
    ```
    This will create an empty `dolt` database and directories for both the output database and reports.
 3. Enter the `sbt` command line and type `run`.
-   ```bash
+   ```
    sbt
    [info] welcome to sbt 1.7.2 (Oracle Corporation Java 11.0.3)
    [info] loading settings for project global-plugins from dependency-graph.sbt,gpg.sbt,metals.sbt ...
@@ -75,7 +75,7 @@ database storage format: NEW ( __DOLT__ )
    ```
    It'll probably take overnight (or more) to archive complete database. You'll see lots of crap scroll by while it does.
 4. [Commit](https://docs.dolthub.com/concepts/dolt/git/commits) the archived database, and try a query:
-   ```bash
+   ```
    $ cd output/dbms/callrep
    $ dolt add .
    $ dolt commit -m "Initial import"
