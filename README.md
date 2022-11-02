@@ -89,16 +89,16 @@ repository. If you pull, you'll get the call report datafiles as of 2022-10-29.
 3. You will need the [build tool `sbt`](https://www.scala-sbt.org/) in your PATH as well.
 4. This application is a memory hog. I don't know what's strictly necessary, but the archiver is configured to run with up to 25GB of heap space.
 
+---
 
-#### Note: The archiver manages `dolt`!
-
+_**Note:** The archiver manages `dolt`!
 Normally my database archivers expect a DBMS up and running, then you just run the archiver which communicates with
 the database via JDBC. However, we are now archiving this to [dolt](https://www.dolthub.com/), which generates a very
 large amount of temporary storage while archiving, whch must be cleaned up by calling `dolt gc` while the DBMS server
-is not running. So currently, this script manages the starting, stopping, and garbage collection of `dolt` by itself.
+is not running. So currently, this script manages the starting, stopping, and garbage collection of `dolt` by itself._
 
-  **TL; DR:** You must make sure that **no `dolt` server is running when you execute this archiver**, so that the archiver
-can manage (start, stop, restart) its own.
+_**TL; DR:** You must make sure that **no `dolt` server is running when you execute this archiver**, so that the archiver
+can manage (start, stop, restart) its own._
 
 #### Step by step
 
