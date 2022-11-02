@@ -14,6 +14,11 @@ My revisiting of this ancient embarrassment is inspired by [dolt](https://github
 sharable, rather than merely textfiles. When I used to keep this database around, I found it useful to play with. Maybe others
 will as well, if it can just be cloned as an interactively queriable database.
 
+#### NO EFFING WARRANTIES
+
+This is literally a revival of more-than-a-decade-old spaghetti code because I am excited about the sharable "live" data enabled by [dolt](https://www.dolthub.com/) and it's a database I used to enjoy having around. I hope that it's useful to you, but it hasn't been audited or quality controlled or anything. It might be basically okay, but if you bet your money on inferences drawn from this and there's some oops! in this data, whether due to me or FFIEC, well, don't blame me.
+
+
 ### Call Reports on DoltHub
 
 The database this code generates is now [pubished on dolthub](https://www.dolthub.com/repositories/swaldman/callrep). You should just [install](https://docs.dolthub.com/introduction/installation) `dolt` and clone the database!
