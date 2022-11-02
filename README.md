@@ -16,7 +16,7 @@ will as well, if it can just be cloned as an interactively queriable database.
 
 ### Call Reports on DoltHub
 
-The database this code generates is now [pubished on dolthub](https://www.dolthub.com/repositories/swaldman/callrep). You should just [install `dolt`](https://docs.dolthub.com/introduction/installation) and clone the database!
+The database this code generates is now [pubished on dolthub](https://www.dolthub.com/repositories/swaldman/callrep). You should just [install](https://docs.dolthub.com/introduction/installation) `dolt` and clone the database!
 
 ```
 $ dolt clone swaldman/callrep
@@ -57,20 +57,23 @@ $ dolt sql -q "SELECT YEAR(Reporting_Period_End_Date) AS YEAR, COUNT(*) AS NUM_F
 +------+------------+
 ```
 
-You can find reports documenting all available tables [here](https://www.mchange.com/projects/callrep/2022-10-29/). That's kind of a mess, but here's what you really need:
+You can find reports documenting all available tables [here](https://www.mchange.com/projects/callrep/2022-10-29/).
 
-* Information about the most useful single table, [BalanceSheetIncomeStatementPastDue1-report.txt](https://www.mchange.com/projects/callrep/2022-10-29/BalanceSheetIncomeStatementPastDue1-report.txt)
+That's kind of a mess, but here's what you really need:
+
+* Information about the most useful single table, [BalanceSheetIncomeStatementPastDue1](https://www.mchange.com/projects/callrep/2022-10-29/BalanceSheetIncomeStatementPastDue1-report.txt)
 * A [dictionary](https://www.mchange.com/projects/callrep/2022-10-29/BalanceSheetIncomeStatementPastDueDictionary.txt) of where you find data across the three `BalanceSheetIncomeStatementPastDue` tables
 * A [dictionary](https://www.mchange.com/projects/callrep/2022-10-29/AllSchedulesDictionary.txt) of where you find data across all of the individual schedule tables (`POR`,`CI`, `RCO1`, etc.)
 
 _**Note:** Several of the individual schedules (but not the schedules BalanceSheetIncomeStatementPastDue tables) reported parse errors on while archiving.
-Scroll to the bottom of reports for
-If you are querying against tables 
-[`NARR`](https://www.mchange.com/projects/callrep/2022-10-29/NARR-report.txt),
-[`RCF`](https://www.mchange.com/projects/callrep/2022-10-29/RCF-report.txt),
-[`RCQ2`](https://www.mchange.com/projects/callrep/2022-10-29/RCQ2-report.txt), and
-[`RIE`](https://www.mchange.com/projects/callrep/2022-10-29/RIE-report.txt),
-please scroll to the bottom of the linked reports for information about the lines in those schedules that could not be parsed and were skipped._
+If you are querying against tables_
+
+* [`NARR`](https://www.mchange.com/projects/callrep/2022-10-29/NARR-report.txt)
+* [`RCF`](https://www.mchange.com/projects/callrep/2022-10-29/RCF-report.txt)
+* [`RCQ2`](https://www.mchange.com/projects/callrep/2022-10-29/RCQ2-report.txt)
+* [`RIE`](https://www.mchange.com/projects/callrep/2022-10-29/RIE-report.txt)
+
+_please scroll to the bottom of the linked reports for information about the lines in those schedules that could not be parsed and were skipped._
 
 ### Building the database yourself
 
