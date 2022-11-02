@@ -3,7 +3,7 @@
 ### Introduction
 
 This is insanely embarrassing code. It is based on a project I did in 2009, as a java programmer
-first beginning to play with scala. It build on top of the also insanely embarrassing (but somehow
+first beginning to play with scala. It is built on top of the also insanely embarrassing (but somehow
 very powerful) [superflex](https://github.com/swaldman/superflex) project, written at the same time and with the same awkward
 naivity to sane scala programming.
 
