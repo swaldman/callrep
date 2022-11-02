@@ -20,6 +20,9 @@ The database this code generates is now [pubished on dolthub](https://www.dolthu
 
 ```
 $ dolt clone swaldman/callrep
+...
+...
+...
 0 of 2,613,690 chunks complete. 786,432 chunks being downloaded currently.
 Downloading file: 6751bq0l28a7qfv5eib7r8kibvbl5dju (262,144 chunks) - 8.10% downloaded, 450 kB/s
 0 of 2,613,690 chunks complete. 786,432 chunks being downloaded currently.
@@ -53,6 +56,21 @@ $ dolt sql -q "SELECT YEAR(Reporting_Period_End_Date) AS YEAR, COUNT(*) AS NUM_F
 | 2021 | 4887       |
 +------+------------+
 ```
+
+You can find reports documenting all available tables [here](https://www.mchange.com/projects/callrep/2022-10-29/). That's kind of a mess, but here's what you really need:
+
+* Information about the most useful single table, [BalanceSheetIncomeStatementPastDue1-report.txt](https://www.mchange.com/projects/callrep/2022-10-29/BalanceSheetIncomeStatementPastDue1-report.txt)
+* A [dictionary](https://www.mchange.com/projects/callrep/2022-10-29/BalanceSheetIncomeStatementPastDueDictionary.txt) of where you find data across the three `BalanceSheetIncomeStatementPastDue` tables
+* A [dictionary](https://www.mchange.com/projects/callrep/2022-10-29/AllSchedulesDictionary.txt) of where you find data across all of the individual schedule tables (`POR`,`CI`, `RCO1`, etc.)
+
+_**Note:** Several of the individual schedules (but not the schedules BalanceSheetIncomeStatementPastDue tables) reported parse errors on while archiving.
+Scroll to the bottom of reports for
+If you are querying against tables 
+[`NARR`](https://www.mchange.com/projects/callrep/2022-10-29/NARR-report.txt),
+[`RCF`](https://www.mchange.com/projects/callrep/2022-10-29/RCF-report.txt),
+[`RCQ2`](https://www.mchange.com/projects/callrep/2022-10-29/RCQ2-report.txt), and
+[`RIE`](https://www.mchange.com/projects/callrep/2022-10-29/RIE-report.txt),
+please scroll to the bottom of the linked reports for information about the lines in those schedules that could not be parsed and were skipped._
 
 ### Building the database yourself
 
