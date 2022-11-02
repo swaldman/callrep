@@ -56,64 +56,64 @@ database storage format: NEW ( __DOLT__ )
    ```
 2. Prepare your repository with
    ```bash
-$ ./reset-output.sh
+   $ ./reset-output.sh
    ```
    This will create an empty `dolt` database and directories for both the output database and reports.
 3. Enter the `sbt` command line and type `run`.
    ```bash
-sbt
-[info] welcome to sbt 1.7.2 (Oracle Corporation Java 11.0.3)
-[info] loading settings for project global-plugins from dependency-graph.sbt,gpg.sbt,metals.sbt ...
-[info] loading global plugins from /Users/swaldman/.sbt/1.0/plugins
-[info] loading project definition from /Users/swaldman/Dropbox/BaseFolders/development-why/gitproj/callrep-archiver/project
-[info] loading settings for project root from build.sbt ...
-[info] set current project to callrep (in build file:/Users/swaldman/Dropbox/BaseFolders/development-why/gitproj/callrep-archiver/)
-[info] sbt server started at local:///Users/swaldman/.sbt/1.0/server/b150fc96f6f1c0c01761/sock
-[info] started sbt server
-sbt:callrep> run
+   sbt
+   [info] welcome to sbt 1.7.2 (Oracle Corporation Java 11.0.3)
+   [info] loading settings for project global-plugins from dependency-graph.sbt,gpg.sbt,metals.sbt ...
+   [info] loading global plugins from /Users/swaldman/.sbt/1.0/plugins
+   [info] loading project definition from /Users/swaldman/Dropbox/BaseFolders/development-why/gitproj/callrep-archiver/project
+   [info] loading settings for project root from build.sbt ...
+   [info] set current project to callrep (in build file:/Users/swaldman/Dropbox/BaseFolders/development-why/gitproj/callrep-archiver/)
+   [info] sbt server started at local:///Users/swaldman/.sbt/1.0/server/b150fc96f6f1c0c01761/sock
+   [info] started sbt server
+   sbt:callrep> run
    
    ```
    It'll probably take overnight (or more) to archive complete database. You'll see lots of crap scroll by while it does.
 4. [Commit](https://docs.dolthub.com/concepts/dolt/git/commits) the archived database, and try a query:
    ```bash
-$ cd output/dbms/callrep
-$ dolt add .
-$ dolt commit -m "Initial import"
-$ dolt sql -q "SELECT Financial_Institution_Name, RCFD2170 AS TOTAL_ASSETS FROM BalanceSheetIncomeStatementPastDue1 WHERE Reporting_Period_End_Date = '2022-06-30' ORDER BY TOTAL_ASSETS DESC LIMIT 30;"
-+---------------------------------------------------+--------------+
-| Financial_Institution_Name                        | TOTAL_ASSETS |
-+---------------------------------------------------+--------------+
-| JPMORGAN CHASE BANK, NATIONAL ASSOCIATION         | 3380824000   |
-| BANK OF AMERICA, NATIONAL ASSOCIATION             | 2440022000   |
-| CITIBANK, N.A.                                    | 1720308000   |
-| WELLS FARGO BANK, NATIONAL ASSOCIATION            | 1712535000   |
-| U.S. BANK NATIONAL ASSOCIATION                    | 582252757    |
-| PNC BANK, NATIONAL ASSOCIATION                    | 534346587    |
-| TRUIST BANK                                       | 532080000    |
-| GOLDMAN SACHS BANK USA                            | 501906000    |
-| CHARLES SCHWAB BANK, SSB                          | 407901000    |
-| TD BANK, N.A.                                     | 405223010    |
-| CAPITAL ONE, NATIONAL ASSOCIATION                 | 388439751    |
-| BANK OF NEW YORK MELLON, THE                      | 365102000    |
-| STATE STREET BANK AND TRUST COMPANY               | 296434000    |
-| CITIZENS BANK, NATIONAL ASSOCIATION               | 226531535    |
-| SILICON VALLEY BANK                               | 211824000    |
-| FIFTH THIRD BANK, NATIONAL ASSOCIATION            | 205546136    |
-| MANUFACTURERS AND TRADERS TRUST COMPANY           | 203656265    |
-| MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION | 199887000    |
-| FIRST REPUBLIC BANK                               | 197908327    |
-| MORGAN STANLEY BANK, N.A.                         | 191345000    |
-| KEYBANK NATIONAL ASSOCIATION                      | 184673175    |
-| HUNTINGTON NATIONAL BANK, THE                     | 178091290    |
-| ALLY BANK                                         | 175814000    |
-| HSBC BANK USA, NATIONAL ASSOCIATION               | 168924907    |
-| BMO HARRIS BANK NATIONAL ASSOCIATION              | 163203086    |
-| REGIONS BANK                                      | 159787000    |
-| NORTHERN TRUST COMPANY, THE                       | 157289965    |
-| AMERICAN EXPRESS NATIONAL BANK                    | 137922091    |
-| CAPITAL ONE BANK (USA), NATIONAL ASSOCIATION      | 126717894    |
-| MUFG UNION BANK, NATIONAL ASSOCIATION             | 124662227    |
-+---------------------------------------------------+--------------+
+   $ cd output/dbms/callrep
+   $ dolt add .
+   $ dolt commit -m "Initial import"
+   $ dolt sql -q "SELECT Financial_Institution_Name, RCFD2170 AS TOTAL_ASSETS FROM BalanceSheetIncomeStatementPastDue1 WHERE Reporting_Period_End_Date = '2022-06-30' ORDER BY TOTAL_ASSETS DESC LIMIT 30;"
+   +---------------------------------------------------+--------------+
+   | Financial_Institution_Name                        | TOTAL_ASSETS |
+   +---------------------------------------------------+--------------+
+   | JPMORGAN CHASE BANK, NATIONAL ASSOCIATION         | 3380824000   |
+   | BANK OF AMERICA, NATIONAL ASSOCIATION             | 2440022000   |
+   | CITIBANK, N.A.                                    | 1720308000   |
+   | WELLS FARGO BANK, NATIONAL ASSOCIATION            | 1712535000   |
+   | U.S. BANK NATIONAL ASSOCIATION                    | 582252757    |
+   | PNC BANK, NATIONAL ASSOCIATION                    | 534346587    |
+   | TRUIST BANK                                       | 532080000    |
+   | GOLDMAN SACHS BANK USA                            | 501906000    |
+   | CHARLES SCHWAB BANK, SSB                          | 407901000    |
+   | TD BANK, N.A.                                     | 405223010    |
+   | CAPITAL ONE, NATIONAL ASSOCIATION                 | 388439751    |
+   | BANK OF NEW YORK MELLON, THE                      | 365102000    |
+   | STATE STREET BANK AND TRUST COMPANY               | 296434000    |
+   | CITIZENS BANK, NATIONAL ASSOCIATION               | 226531535    |
+   | SILICON VALLEY BANK                               | 211824000    |
+   | FIFTH THIRD BANK, NATIONAL ASSOCIATION            | 205546136    |
+   | MANUFACTURERS AND TRADERS TRUST COMPANY           | 203656265    |
+   | MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION | 199887000    |
+   | FIRST REPUBLIC BANK                               | 197908327    |
+   | MORGAN STANLEY BANK, N.A.                         | 191345000    |
+   | KEYBANK NATIONAL ASSOCIATION                      | 184673175    |
+   | HUNTINGTON NATIONAL BANK, THE                     | 178091290    |
+   | ALLY BANK                                         | 175814000    |
+   | HSBC BANK USA, NATIONAL ASSOCIATION               | 168924907    |
+   | BMO HARRIS BANK NATIONAL ASSOCIATION              | 163203086    |
+   | REGIONS BANK                                      | 159787000    |
+   | NORTHERN TRUST COMPANY, THE                       | 157289965    |
+   | AMERICAN EXPRESS NATIONAL BANK                    | 137922091    |
+   | CAPITAL ONE BANK (USA), NATIONAL ASSOCIATION      | 126717894    |
+   | MUFG UNION BANK, NATIONAL ASSOCIATION             | 124662227    |
+   +---------------------------------------------------+--------------+
    ```
 
 That's it!
